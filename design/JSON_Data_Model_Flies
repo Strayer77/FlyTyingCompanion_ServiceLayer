@@ -1,0 +1,70 @@
+{
+    user: {
+        userID: 100565,
+        userName: 'MStrayer',
+        email: 'mstrayer@gmail.com',
+        password: 'password123',
+        userMaterials: [
+            {
+                materialID: 05467000,
+                materialName: 'black 6/0 Flymaster',
+                materialType: 'Thread',
+            },
+            {
+                materialID: 00789000,
+                materialName: 'Tiemco 3761',
+                materialType: 'Hook',
+            }
+        ]
+        userFlies: [
+            {
+            flyID: 006783990,
+            flyName: 'Copper John',
+            flyType: 'Nymph',
+            },
+            {
+            flyID: 756000543,
+            flyName: 'Elk Hair Caddis',
+            flyType: 'Dry Fly',
+            }
+        ]
+
+    }
+}
+
+
+
+{
+    fly: {
+        flyID: 756000543,
+        flyName: 'Elk Hair Caddis',
+        flyType: 'Dry Fly',
+        materials: [
+            {
+            materialID: 00100231,
+            materialName: 'Tiemco 100',
+            materialType: 'Hook',
+            },
+            {
+            materialID: 00100545,
+            materialName: 'Flymaster 6/0 black',
+            materialType: 'Thread',
+            },
+            {
+            materialID: 00100675,
+            materialName: 'Brown Hackle',
+            materialType: 'Body',
+            },
+            {
+            materialID: 00102255,
+            materialName: 'Elk Hair',
+            materialType: 'Body',
+            },
+            {
+            materialID: 00102255,
+            materialName: 'Elk Hair',
+            materialType: 'Body',
+            },
+        ]
+    }
+}
