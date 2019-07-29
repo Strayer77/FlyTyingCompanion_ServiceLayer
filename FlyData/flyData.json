@@ -1,3 +1,4 @@
+[
 {
     "flyName": "Globug Alaskan Roe",
     "flyCategory": "Globugs",
@@ -10,7 +11,7 @@
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Globug Apricot Supreme Alaskan Roe",
     "flyCategory": "Globugs",
     "image_url": "Globug_ApricotSupreme&AlaskanRoe.jpg",
@@ -18,11 +19,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Apricot Supreme  Alaskan Roe Globug Yarn",
+            "Body": "Apricot Supreme Alaskan Roe Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Globug Apricot Supreme Steelhead Orange",
     "flyCategory": "Globugs",
     "image_url": "Globug_ApricotSupreme&SteelheadOrange.jpg",
@@ -30,11 +31,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Apricot Supreme  Steelhead Orange Globug Yarn",
+            "Body": "Apricot Supreme Steelhead Orange Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Globug Champagne Alaskan Roe",
     "flyCategory": "Globugs",
     "image_url": "Globug_Champagne&AlaskanRoe.jpg",
@@ -42,11 +43,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Champagne  Alaskan Roe Globug Yarn",
+            "Body": "Champagne Alaskan Roe Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Globug Champagne Steelhead Orange",
     "flyCategory": "Globugs",
     "image_url": "Globug_Champagne&SteelheadOrange.jpg",
@@ -54,11 +55,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Champagne  Steelhead Orange Globug Yarn",
+            "Body": "Champagne Steelhead Orange Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Globug Champagne Deep Dark Red",
     "flyCategory": "Globugs",
     "image_url": "Globug_Champagne&DeepDarkRed.jpg",
@@ -66,11 +67,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Champagne  Steelhead Orange Globug Yarn",
+            "Body": "Champagne Steelhead Orange Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Globug Champagne Flame",
     "flyCategory": "Globugs",
     "image_url": "Globug_Champagne&Flame.jpg",
@@ -78,11 +79,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Champagne  Flame Globug Yarn",
+            "Body": "Champagne Flame Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Globug Chartreuse Cherise",
     "flyCategory": "Globugs",
     "image_url": "Globug_Chartreuse&Cherise.jpg",
@@ -90,11 +91,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Chartreuse  Cherise Globug Yarn",
+            "Body": "Chartreuse Cherise Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Globug Cream Delight Steelhead Orange",
     "flyCategory": "Globugs",
     "image_url": "Globug_CreamDelight&SteelheadOrange.jpg",
@@ -102,11 +103,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Cream Delight  Steelhead Orange Globug Yarn",
+            "Body": "Cream Delight Steelhead Orange Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Globug Egg Steelhead Orange",
     "flyCategory": "Globugs",
     "image_url": "Globug_Egg&SteelheadOrange.jpg",
@@ -114,11 +115,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Egg  Steelhead Orange Globug Yarn",
+            "Body": "Steelhead Orange Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Globug Flame",
     "flyCategory": "Globugs",
     "image_url": "Globug_Flame.jpg",
@@ -130,7 +131,7 @@
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Globug Oregon Cheese Steelhead Orange",
     "flyCategory": "Globugs",
     "image_url": "Globug_OregonCheese&SteelheadOrange.jpg",
@@ -138,11 +139,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Oregon Cheese  Steelhead Orange Globug Yarn",
+            "Body": "Oregon Cheese Steelhead Orange Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Globug Peachy King Deep Dark Red",
     "flyCategory": "Globugs",
     "image_url": "Globug_PeachyKing&DeepDarkRed.jpg",
@@ -150,11 +151,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Peachy King  Deep Dark Red Globug Yarn",
+            "Body": "Peachy King Deep Dark Red Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Globug Peachy King Flame",
     "flyCategory": "Globugs",
     "image_url": "Globug_PeachyKing&Flame.jpg",
@@ -162,11 +163,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Peachy King  Flame Globug Yarn",
+            "Body": "Peachy King Flame Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Globug Salmon Egg Alaskan Roe",
     "flyCategory": "Globugs",
     "image_url": "Globug_SalmonEgg&AlaskanRoe.jpg",
@@ -174,11 +175,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Salmon Egg  Alaskan Roe Globug Yarn",
+            "Body": "Alaskan Roe Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Globug Salmon Egg Deep Dark Red",
     "flyCategory": "Globugs",
     "image_url": "Globug_SalmonEgg&DeepDarkRed.jpg",
@@ -186,11 +187,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Salmon Egg  Deep Dark Red Globug Yarn",
+            "Body": "Salmon Egg Deep Dark Red Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Globug Shrimp Pink Flame",
     "flyCategory": "Globugs",
     "image_url": "Globug_ShrimpPink&Flame.jpg",
@@ -198,11 +199,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Shrimp Pink  Flame Globug Yarn",
+            "Body": "Shrimp Pink Flame Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Globug Steelhead Orange Deep Dark Red",
     "flyCategory": "Globugs",
     "image_url": "Globug_SteelheadOrange&DeepDarkRed.jpg",
@@ -210,11 +211,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Steelhead Orange  Deep Dark Red Globug Yarn",
+            "Body": "Steelhead Orange Deep Dark Red Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Globug White Deep Dark Red",
     "flyCategory": "Globugs",
     "image_url": "Globug_White&DeepDarkRed.jpg",
@@ -222,11 +223,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "White  Deep Dark Red Globug Yarn",
+            "Body": "White Deep Dark Red Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Bling Globug Apricot Supreme Alaskan Roe",
     "flyCategory": "Globugs",
     "image_url": "Bling_Globug_ApricotSupreme&AlaskanRoe.jpg",
@@ -234,11 +235,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Bling Apricot Supreme Bling Alaskan Roe Globug Yarn",
+            "Body": "Bling Apricot Supreme Alaskan Roe Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Bling Globug Apricot Supreme Deep Dark Red",
     "flyCategory": "Globugs",
     "image_url": "Bling_Globug_ApricotSupreme&DeepDarkRed.jpg",
@@ -246,11 +247,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Bling Apricot Supreme Bling Deep Dark Red Globug Yarn",
+            "Body": "Bling Apricot Supreme Deep Dark Red Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Bling Globug Champagne Alaskan Roe",
     "flyCategory": "Globugs",
     "image_url": "Bling_Globug_Champagne&AlaskanRoe.jpg",
@@ -258,11 +259,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Bling Champagne  Bling Alaskan Roe Globug Yarn",
+            "Body": "Bling Champagne Alaskan Roe Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Bling Globug Champagne Steelhead Orange",
     "flyCategory": "Globugs",
     "image_url": "Bling_Globug_Champagne&SteelheadOrange.jpg",
@@ -270,11 +271,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Bling Champagne  Bling Steelhead Orange Globug Yarn",
+            "Body": "Bling Champagne Steelhead Orange Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Bling Globug Deep Dark Red",
     "flyCategory": "Globugs",
     "image_url": "Bling_Globug_DeepDarkRed.jpg",
@@ -286,7 +287,7 @@
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Bling Globug Flame",
     "flyCategory": "Globugs",
     "image_url": "Bling_Globug_Flame.jpg",
@@ -298,7 +299,7 @@
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Bling Globug Niagara Gold Flame",
     "flyCategory": "Globugs",
     "image_url": "Bling_Globug_NiagaraGold&Flame.jpg",
@@ -306,11 +307,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Bling Niagara Gold  Bling Flame Globug Yarn",
+            "Body": "Bling Niagara Gold Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Bling Globug Salmon Egg Deep Dark Red",
     "flyCategory": "Globugs",
     "image_url": "Bling_Globug_SalmonEgg&DeepDarkRed.jpg",
@@ -318,11 +319,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Bling Salmon Egg  Bling Deep Dark Red Globug Yarn",
+            "Body": "Bling Deep Dark Red Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Bling Globug Steelhead Orange Deep Dark Red",
     "flyCategory": "Globugs",
     "image_url": "Bling_Globug_SteelheadOrange&DeepDarkRed.jpg",
@@ -330,11 +331,11 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Bling Steelhead Orange  Bling Deep Dark Red Globug Yarn",
+            "Body": "Bling Deep Dark Red Globug Yarn",
             "Head": "Thread"
         }
     }
-}{
+},{
     "flyName": "Muppet Apricot Supreme Alaskan Roe",
     "flyCategory": "Eggs",
     "image_url": "Muppet_ApricotSupreme&AlaskanRoe.jpg",
@@ -342,14 +343,14 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Bling Steelhead Orange  Bling Deep Dark Red Globug Yarn",
+            "Body": "Bling Steelhead Orange",
             "Head": "Thread",
-            "Abdomen": "Apricot Supreme  Alaskan Roe Globug Yarn",
+            "Abdomen": "Apricot Supreme Alaskan Roe Globug Yarn",
             "Bead": "Brass Dumbells",
             "Eyes": "Thread"
         }
     }
-}{
+},{
     "flyName": "Muppet Apricot Supreme Steelhead Orange",
     "flyCategory": "Eggs",
     "image_url": "Muppet_ApricotSupreme&SteelheadOrange.jpg",
@@ -357,14 +358,14 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Bling Steelhead Orange  Bling Deep Dark Red Globug Yarn",
+            "Body": "Bling Deep Dark Red Globug Yarn",
             "Head": "Thread",
-            "Abdomen": "Apricot Supreme  Steelhead Orange Globug Yarn",
+            "Abdomen": "Apricot Supreme Steelhead Orange Globug Yarn",
             "Bead": "Brass Dumbells",
             "Eyes": "Thread"
         }
     }
-}{
+},{
     "flyName": "Muppet Champagne Alaskan Roe",
     "flyCategory": "Eggs",
     "image_url": "Muppet_Champagne&AlaskanRoe.jpg",
@@ -372,14 +373,14 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Bling Steelhead Orange  Bling Deep Dark Red Globug Yarn",
+            "Body": "Bling Deep Dark Red Globug Yarn",
             "Head": "Thread",
-            "Abdomen": "Champagne  Alaskan Roe Globug Yarn",
+            "Abdomen": "Champagne Alaskan Roe Globug Yarn",
             "Bead": "Brass Dumbells",
             "Eyes": "Thread"
         }
     }
-}{
+},{
     "flyName": "Muppet Champagne Steelhead Orange",
     "flyCategory": "Eggs",
     "image_url": "Muppet_Champagne&SteelheadOrange.jpg",
@@ -387,14 +388,14 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Bling Steelhead Orange  Bling Deep Dark Red Globug Yarn",
+            "Body": "Bling Steelhead Orange Egg",
             "Head": "Thread",
-            "Abdomen": "Champagne  Steelhead Orange Globug Yarn",
+            "Abdomen": "Champagne Steelhead Orange Globug Yarn",
             "Bead": "Brass Dumbells",
             "Eyes": "Thread"
         }
     }
-}{
+},{
     "flyName": "Muppet Peachy King Flame",
     "flyCategory": "Eggs",
     "image_url": "Muppet_PeachyKing&Flame.jpg",
@@ -402,14 +403,14 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Bling Steelhead Orange  Bling Deep Dark Red Globug Yarn",
+            "Body": "Bling Steelhead Orange",
             "Head": "Thread",
             "Abdomen": "Peachy King  Flame Globug Yarn",
             "Bead": "Brass Dumbells",
             "Eyes": "Thread"
         }
     }
-}{
+},{
     "flyName": "Muppet Salmon Egg Deep Dark Red",
     "flyCategory": "Eggs",
     "image_url": "Muppet_SalmonEgg&DeepDarkRed.jpg",
@@ -417,14 +418,14 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Bling Steelhead Orange  Bling Deep Dark Red Globug Yarn",
+            "Body": "Bling Steelhead Orange",
             "Head": "Thread",
-            "Abdomen": "Salmon Egg  Deep Dark Red Orange Globug Yarn",
+            "Abdomen": "Salmon Egg",
             "Bead": "Brass Dumbells",
             "Eyes": "Thread"
         }
     }
-}{
+},{
     "flyName": "Muppet Steelhead Orange Deep Dark Red",
     "flyCategory": "Eggs",
     "image_url": "Muppet_SteelheadOrange&DeepDarkRed.jpg",
@@ -432,14 +433,14 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Bling Steelhead Orange  Bling Deep Dark Red Globug Yarn",
+            "Body": "Bling Steelhead Orange",
             "Head": "Thread",
-            "Abdomen": "Steelhead Orange  Deep Dark Red Orange Globug Yarn",
+            "Abdomen": "Deep Dark Red Orange Globug Yarn",
             "Bead": "Brass Dumbells",
             "Eyes": "Thread"
         }
     }
-}{
+},{
     "flyName": "Krystal Egg Pink",
     "flyCategory": "Muppets",
     "image_url": "Krystal_Egg_pink.jpg",
@@ -447,7 +448,7 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Bling Steelhead Orange  Bling Deep Dark Red Globug Yarn",
+            "Body": "Bling Deep Dark Red Globug Yarn",
             "Head": "Thread",
             "Abdomen": "Pink Accent Flash",
             "Bead": "Brass Dumbells",
@@ -455,7 +456,7 @@
             "Overwing": "White Hen Hackle"
         }
     }
-}{
+},{
     "flyName": "Krystal Egg Orange",
     "flyCategory": "Muppets",
     "image_url": "Krystal_Egg_orange.jpg",
@@ -463,7 +464,7 @@
         "materialDict": {
             "Hook": "Tiemco 2457",
             "Thread": "Flat Waxed Nylon",
-            "Body": "Bling Steelhead Orange  Bling Deep Dark Red Globug Yarn",
+            "Body": "Bling Steelhead Orange",
             "Head": "Thread",
             "Abdomen": "Orange Accent Flash",
             "Bead": "Brass Dumbells",
@@ -471,7 +472,7 @@
             "Overwing": "White Hen Hackle"
         }
     }
-}{
+},{
     "flyName": "Adams",
     "flyCategory": "Dries",
     "image_url": "Adams.jpg",
@@ -490,7 +491,7 @@
             "Hackle": "Brown Grizzly Hairy Hackle"
         }
     }
-}{
+},{
     "flyName": "Adams Amber",
     "flyCategory": "Dries",
     "image_url": "Adams_Amber.jpg",
@@ -509,7 +510,7 @@
             "Hackle": "Brown Grizzly Hairy Hackle"
         }
     }
-}{
+},{
     "flyName": "Black Gnat",
     "flyCategory": "Dries",
     "image_url": "Black_Gnat.jpg",
@@ -528,7 +529,7 @@
             "Hackle": "Black Or Dyed Black"
         }
     }
-}{
+},{
     "flyName": "Blowfly Humpy",
     "flyCategory": "Dries",
     "image_url": "Blowfly_Humpy.jpg",
@@ -548,7 +549,7 @@
             "Back": "Black Deer Hair Fibers"
         }
     }
-}{
+},{
     "flyName": "Blowfly Humpy Blackbrown",
     "flyCategory": "Dries",
     "image_url": "Blowfly_Humpy_black&brown.jpg",
@@ -568,7 +569,7 @@
             "Back": "Black Dyed Deer Hair Fibers"
         }
     }
-}{
+},{
     "flyName": "Blowfly Humpy Brown",
     "flyCategory": "Dries",
     "image_url": "Blowfly_Humpy_brown.jpg",
@@ -588,7 +589,7 @@
             "Back": "Deer Hair Fibers"
         }
     }
-}{
+},{
     "flyName": "Blowfly Humpy Metallic Blue",
     "flyCategory": "Dries",
     "image_url": "Blowfly_Humpy_metallic_blue.jpg",
@@ -608,7 +609,7 @@
             "Back": "Black Deer Hair Fibers"
         }
     }
-}{
+},{
     "flyName": "Blowfly Humpy Peacock",
     "flyCategory": "Dries",
     "image_url": "Blowfly_Humpy_peacock.jpg",
@@ -628,7 +629,7 @@
             "Back": "Peacock Wing Segment Fibers"
         }
     }
-}{
+},{
     "flyName": "Blue Winged Olive",
     "flyCategory": "Dries",
     "image_url": "Blue_Winged_Olive.jpg",
@@ -648,7 +649,7 @@
             "Back": "Peacock Wing Segment Fibers"
         }
     }
-}{
+},{
     "flyName": "Dads Favourite",
     "flyCategory": "Dries",
     "image_url": "Dads_Favourite.jpg",
@@ -668,7 +669,7 @@
             "Back": "Peacock Wing Segment Fibers"
         }
     }
-}{
+},{
     "flyName": "Gray Wulff",
     "flyCategory": "Dries",
     "image_url": "Gray_Wulff.jpg",
@@ -688,7 +689,7 @@
             "Back": "Peacock Wing Segment Fibers"
         }
     }
-}{
+},{
     "flyName": "Greenwells Glory Tailless",
     "flyCategory": "Dries",
     "image_url": "Greenwells_Glory_tailless.jpg",
@@ -709,7 +710,7 @@
             "Rib": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Greenwells Glory",
     "flyCategory": "Dries",
     "image_url": "Greenwells_Glory.jpg",
@@ -730,7 +731,7 @@
             "Rib": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Humpy Green",
     "flyCategory": "Dries",
     "image_url": "Humpy_green.jpg",
@@ -751,7 +752,7 @@
             "Rib": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Humpy Red",
     "flyCategory": "Dries",
     "image_url": "Humpy_red.jpg",
@@ -772,7 +773,7 @@
             "Rib": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Humpy Yellow",
     "flyCategory": "Dries",
     "image_url": "Humpy_yellow.jpg",
@@ -793,7 +794,7 @@
             "Rib": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Irresistible Adams",
     "flyCategory": "Dries",
     "image_url": "Irresistible_Adams.jpg",
@@ -814,7 +815,7 @@
             "Rib": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Irresistible Wulff",
     "flyCategory": "Dries",
     "image_url": "Irresistible_Wulff.jpg",
@@ -835,7 +836,7 @@
             "Rib": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Kakahi Queen",
     "flyCategory": "Dries",
     "image_url": "Kakahi_Queen.jpg",
@@ -856,7 +857,7 @@
             "Rib": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Mosquito",
     "flyCategory": "Dries",
     "image_url": "Mosquito.jpg",
@@ -877,7 +878,7 @@
             "Rib": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Quill Gordon",
     "flyCategory": "Dries",
     "image_url": "Quill_Gordon.jpg",
@@ -898,7 +899,7 @@
             "Rib": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Red Tipped Governor",
     "flyCategory": "Dries",
     "image_url": "Red_Tipped_Governor.jpg",
@@ -919,7 +920,7 @@
             "Rib": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Royal Coachman",
     "flyCategory": "Dries",
     "image_url": "Royal_Coachman.jpg",
@@ -940,7 +941,7 @@
             "Rib": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Royal Wulff",
     "flyCategory": "Dries",
     "image_url": "Royal_Wulff.jpg",
@@ -961,7 +962,7 @@
             "Rib": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Royal Wulff Fluorogreen",
     "flyCategory": "Dries",
     "image_url": "Royal_Wulff_fluorogreen.jpg",
@@ -982,7 +983,7 @@
             "Rib": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Sasquatch",
     "flyCategory": "Caddis",
     "image_url": "Sasquatch.jpg",
@@ -1004,7 +1005,7 @@
             "Thorax": "Deer Hair"
         }
     }
-}{
+},{
     "flyName": "Slow Water Caddis",
     "flyCategory": "Caddis",
     "image_url": "Slow_Water_Caddis.jpg",
@@ -1026,7 +1027,7 @@
             "Thorax": "Deer Hair"
         }
     }
-}{
+},{
     "flyName": "Twilight Beauty Blonde",
     "flyCategory": "Dries",
     "image_url": "Twilight_Beauty_blonde.jpg",
@@ -1048,7 +1049,7 @@
             "Thorax": "Deer Hair"
         }
     }
-}{
+},{
     "flyName": "Twilight Beauty Redhead",
     "flyCategory": "Dries",
     "image_url": "Twilight_Beauty_redhead.jpg",
@@ -1070,7 +1071,7 @@
             "Thorax": "Deer Hair"
         }
     }
-}{
+},{
     "flyName": "Elk Caddis",
     "flyCategory": "Caddis",
     "image_url": "CDC_Elk_Caddis.jpg",
@@ -1092,7 +1093,7 @@
             "Thorax": "Deer Hair"
         }
     }
-}{
+},{
     "flyName": "Crunchy Caddis",
     "flyCategory": "Caddis",
     "image_url": "Crunchy_Caddis.jpg",
@@ -1114,7 +1115,7 @@
             "Thorax": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Elk Hair Caddis Brown",
     "flyCategory": "Caddis",
     "image_url": "Elk_Hair_Caddis_brown.jpg",
@@ -1136,7 +1137,7 @@
             "Thorax": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Elk Hair Caddis Olive",
     "flyCategory": "Caddis",
     "image_url": "Elk_Hair_Caddis_olive.jpg",
@@ -1158,7 +1159,7 @@
             "Thorax": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Foamwing Sedge",
     "flyCategory": "Caddis",
     "image_url": "Foamwing_Sedge.jpg",
@@ -1180,7 +1181,7 @@
             "Thorax": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Goddards Sedge",
     "flyCategory": "Caddis",
     "image_url": "Goddards_Sedge.jpg",
@@ -1202,7 +1203,7 @@
             "Thorax": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Hatchmaster",
     "flyCategory": "Caddis",
     "image_url": "Hatchmaster.jpg",
@@ -1224,7 +1225,7 @@
             "Thorax": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Henrysville Caddis",
     "flyCategory": "Caddis",
     "image_url": "Henrysville_Caddis.jpg",
@@ -1246,7 +1247,7 @@
             "Thorax": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Kingsriver Caddis",
     "flyCategory": "Caddis",
     "image_url": "Kingsriver_Caddis.jpg",
@@ -1268,7 +1269,7 @@
             "Thorax": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Mallard Wing Caddis",
     "flyCategory": "Caddis",
     "image_url": "Mallard_Wing_Caddis.jpg",
@@ -1290,7 +1291,7 @@
             "Thorax": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Streaking Caddis",
     "flyCategory": "Caddis",
     "image_url": "Streaking_Caddis.jpg",
@@ -1312,7 +1313,7 @@
             "Thorax": "Deer Hair"
         }
     }
-}{
+},{
     "flyName": "Sasquatch",
     "flyCategory": "Caddis",
     "image_url": "Sasquatch.jpg",
@@ -1334,7 +1335,7 @@
             "Thorax": "Deer Hair"
         }
     }
-}{
+},{
     "flyName": "Slow Water Caddis",
     "flyCategory": "Caddis",
     "image_url": "Slow_Water_Caddis.jpg",
@@ -1356,7 +1357,7 @@
             "Thorax": "Deer Hair"
         }
     }
-}{
+},{
     "flyName": "Adams Parachute",
     "flyCategory": "Parachutes",
     "image_url": "Adams_Parachute.jpg",
@@ -1378,7 +1379,7 @@
             "Thorax": "Thorax"
         }
     }
-}{
+},{
     "flyName": "Adams Parachute Brown",
     "flyCategory": "Parachutes",
     "image_url": "Adams_Parachute_brown.jpg",
@@ -1400,7 +1401,7 @@
             "Thorax": "Thorax"
         }
     }
-}{
+},{
     "flyName": "Blue Winged Olive Parachute",
     "flyCategory": "Parachutes",
     "image_url": "Blue_Winged_Olive_Parachute.jpg",
@@ -1422,7 +1423,7 @@
             "Thorax": "Thorax"
         }
     }
-}{
+},{
     "flyName": "Klinkhammer Browncream",
     "flyCategory": "Parachutes",
     "image_url": "Klinkhammer_brown&cream.jpg",
@@ -1444,7 +1445,7 @@
             "Thorax": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Klinkhammer Brownolivepeacock",
     "flyCategory": "Parachutes",
     "image_url": "Klinkhammer_brown&olive&peacock.jpg",
@@ -1466,7 +1467,7 @@
             "Thorax": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Klinkhammer Grizzlybrownolive",
     "flyCategory": "Parachutes",
     "image_url": "Klinkhammer_grizzly&brown&olive.jpg",
@@ -1488,7 +1489,7 @@
             "Thorax": "Olive Antron"
         }
     }
-}{
+},{
     "flyName": "Klinkhammer Grizzlybrownpeacock",
     "flyCategory": "Parachutes",
     "image_url": "Klinkhammer_grizzly&brown&peacock.jpg",
@@ -1510,7 +1511,7 @@
             "Thorax": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Klinkhammer Coachman",
     "flyCategory": "Parachutes",
     "image_url": "Klinkhammer_Coachman.jpg",
@@ -1532,7 +1533,7 @@
             "Thorax": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Loves Lure",
     "flyCategory": "Parachutes",
     "image_url": "Loves_Lure.jpg",
@@ -1554,7 +1555,7 @@
             "Thorax": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Coch Y Bondhu",
     "flyCategory": "Flies",
     "image_url": "Coch_y_bondhu.jpg",
@@ -1577,7 +1578,7 @@
             "Tag": "Gold Tinsel"
         }
     }
-}{
+},{
     "flyName": "Coch Y Bondhu Gray",
     "flyCategory": "Flies",
     "image_url": "Coch_y_bondhu_gray.jpg",
@@ -1600,7 +1601,7 @@
             "Tag": "Gold Tinsel"
         }
     }
-}{
+},{
     "flyName": "Coch Y Bondhu Winged",
     "flyCategory": "Flies",
     "image_url": "Coch_y_bondhu_winged.jpg",
@@ -1623,7 +1624,7 @@
             "Tag": "Gold Tinsel"
         }
     }
-}{
+},{
     "flyName": "Damsel Adult Crimson",
     "flyCategory": "Flies",
     "image_url": "Damsel_Adult_crimson.jpg",
@@ -1647,7 +1648,7 @@
             "Legs": "Maxima Brown Kilogram Mono"
         }
     }
-}{
+},{
     "flyName": "Double Renegade",
     "flyCategory": "Flies",
     "image_url": "Double_Renegade.jpg",
@@ -1671,7 +1672,7 @@
             "Legs": "Maxima Brown Kilogram Mono"
         }
     }
-}{
+},{
     "flyName": "Dragonfly Adult Blue",
     "flyCategory": "Flies",
     "image_url": "Dragonfly_Adult_blue.jpg",
@@ -1695,7 +1696,7 @@
             "Legs": "Black Fiber"
         }
     }
-}{
+},{
     "flyName": "Dragonfly Adult Tan",
     "flyCategory": "Flies",
     "image_url": "Dragonfly_Adult_tan.jpg",
@@ -1719,7 +1720,7 @@
             "Legs": "Black Fiber"
         }
     }
-}{
+},{
     "flyName": "Jassid",
     "flyCategory": "Flies",
     "image_url": "Jassid.jpg",
@@ -1743,7 +1744,7 @@
             "Legs": "Black Fiber"
         }
     }
-}{
+},{
     "flyName": "Lacewing Moth Mallard",
     "flyCategory": "Flies",
     "image_url": "Lacewing_Moth_mallard.jpg",
@@ -1767,7 +1768,7 @@
             "Legs": "Black Fiber"
         }
     }
-}{
+},{
     "flyName": "Lacewing Moth Pheasant",
     "flyCategory": "Flies",
     "image_url": "Lacewing_Moth_pheasant.jpg",
@@ -1791,7 +1792,7 @@
             "Legs": "Black Fiber"
         }
     }
-}{
+},{
     "flyName": "Mole Fly",
     "flyCategory": "Flies",
     "image_url": "Mole_Fly.jpg",
@@ -1815,7 +1816,7 @@
             "Legs": "Black Fiber"
         }
     }
-}{
+},{
     "flyName": "Rubberlegged Royal Stimulator",
     "flyCategory": "Flies",
     "image_url": "Rubberlegged_Royal_Stimulator.jpg",
@@ -1839,7 +1840,7 @@
             "Legs": "Fine Black Rubber"
         }
     }
-}{
+},{
     "flyName": "Stimulator Orange",
     "flyCategory": "Flies",
     "image_url": "Stimulator_Orange.jpg",
@@ -1863,7 +1864,7 @@
             "Legs": "Fine Black Rubber"
         }
     }
-}{
+},{
     "flyName": "Stimulator Yellow Olive Rubberlegs",
     "flyCategory": "Flies",
     "image_url": "Stimulator_Yellow&Olive_Rubberlegs.jpg",
@@ -1887,7 +1888,7 @@
             "Legs": "White Rubber"
         }
     }
-}{
+},{
     "flyName": "Stimulator Olive Orange",
     "flyCategory": "Flies",
     "image_url": "Stimulator_Olive&Orange.jpg",
@@ -1911,7 +1912,7 @@
             "Legs": "White Rubber"
         }
     }
-}{
+},{
     "flyName": "Stimulator Yellow Orange",
     "flyCategory": "Flies",
     "image_url": "Stimulator_Yellow&Orange.jpg",
@@ -1935,7 +1936,7 @@
             "Legs": "White Rubber"
         }
     }
-}{
+},{
     "flyName": "Stimulator Olive Gold",
     "flyCategory": "Flies",
     "image_url": "Stimulator_Olive&Gold.jpg",
@@ -1959,7 +1960,7 @@
             "Legs": "White Rubber"
         }
     }
-}{
+},{
     "flyName": "Stimulator Royal",
     "flyCategory": "Flies",
     "image_url": "Stimulator_Royal.jpg",
@@ -1983,7 +1984,7 @@
             "Legs": "White Rubber"
         }
     }
-}{
+},{
     "flyName": "Cricket",
     "flyCategory": "Terrestrials",
     "image_url": "Cricket.jpg",
@@ -2007,7 +2008,7 @@
             "Legs": "Dyed Black Turkey Wing Fibers"
         }
     }
-}{
+},{
     "flyName": "Deerhair Beetle Brown",
     "flyCategory": "Terrestrials",
     "image_url": "Deerhair_Beetle_brown.jpg",
@@ -2031,7 +2032,7 @@
             "Legs": "Dyed Black Turkey Wing Fibers"
         }
     }
-}{
+},{
     "flyName": "Electric Beetle Green Foamback",
     "flyCategory": "Terrestrials",
     "image_url": "Electric_Beetle_green_Foamback.jpg",
@@ -2055,7 +2056,7 @@
             "Legs": "Pearl Microfibbets"
         }
     }
-}{
+},{
     "flyName": "Electric Peacock Housefly",
     "flyCategory": "Terrestrials",
     "image_url": "Electric_Peacock_Housefly.jpg",
@@ -2079,7 +2080,7 @@
             "Legs": "Pearl Microfibbets"
         }
     }
-}{
+},{
     "flyName": "Foam Cicada Rubberlegged Green",
     "flyCategory": "Terrestrials",
     "image_url": "Foam_Cicada_rubberlegged_green.jpg",
@@ -2103,7 +2104,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Foam Cicada Rubberlegged Tan",
     "flyCategory": "Terrestrials",
     "image_url": "Foam_Cicada_rubberlegged_tan.jpg",
@@ -2127,7 +2128,7 @@
             "Legs": "Tan Rubber"
         }
     }
-}{
+},{
     "flyName": "Japanese Beetle",
     "flyCategory": "Terrestrials",
     "image_url": "Japanese_Beetle.jpg",
@@ -2151,7 +2152,7 @@
             "Legs": "Tan Rubber"
         }
     }
-}{
+},{
     "flyName": "Madame X Parachute Peacock",
     "flyCategory": "Terrestrials",
     "image_url": "Madame_X_Parachute_peacock.jpg",
@@ -2175,7 +2176,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Louies Cicada",
     "flyCategory": "Terrestrials",
     "image_url": "Louies_Cicada.jpg",
@@ -2199,7 +2200,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Mallard Wing Cicada Black",
     "flyCategory": "Terrestrials",
     "image_url": "Mallard_Wing_Cicada_black.jpg",
@@ -2223,7 +2224,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Mallard Wing Cicada Olive",
     "flyCategory": "Terrestrials",
     "image_url": "Mallard_Wing_Cicada_olive.jpg",
@@ -2247,7 +2248,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Mallard Wing Cicada Bright Green",
     "flyCategory": "Terrestrials",
     "image_url": "Mallard_Wing_Cicada_bright_green.jpg",
@@ -2271,7 +2272,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Mallard Wing Cicada Mint Green",
     "flyCategory": "Terrestrials",
     "image_url": "Mallard_Wing_Cicada_mint_green.jpg",
@@ -2295,7 +2296,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Mallard Wing Cicada Brownolive",
     "flyCategory": "Terrestrials",
     "image_url": "Mallard_Wing_Cicada_brown&olive.jpg",
@@ -2319,7 +2320,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Mallard Wing Cicada Naturalolive",
     "flyCategory": "Terrestrials",
     "image_url": "Mallard_Wing_Cicada_natural&olive.jpg",
@@ -2343,7 +2344,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Mallard Wing Cicada Naturalbrightgreen",
     "flyCategory": "Terrestrials",
     "image_url": "Mallard_Wing_Cicada_natural&brightgreen.jpg",
@@ -2367,7 +2368,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Mountain Cicada Naturalbrightgreen",
     "flyCategory": "Terrestrials",
     "image_url": "Mountain_Cicada_natural&brightgreen.jpg",
@@ -2391,7 +2392,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Mountain Cicada",
     "flyCategory": "Terrestrials",
     "image_url": "Mountain_Cicada.jpg",
@@ -2415,7 +2416,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Mountain Cicada Mallard Wing",
     "flyCategory": "Terrestrials",
     "image_url": "Mountain_Cicada_Mallard_Wing.jpg",
@@ -2439,7 +2440,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Mountain Cicada Beige",
     "flyCategory": "Terrestrials",
     "image_url": "Mountain_Cicada_beige.jpg",
@@ -2463,7 +2464,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Mountain Cicada Beige Mallard Wing",
     "flyCategory": "Terrestrials",
     "image_url": "Mountain_Cicada_beige_Mallard_Wing.jpg",
@@ -2487,7 +2488,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Mountain Cicada Brown",
     "flyCategory": "Terrestrials",
     "image_url": "Mountain_Cicada_brown.jpg",
@@ -2511,7 +2512,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Mountain Cicada Brown Mallard Wing",
     "flyCategory": "Terrestrials",
     "image_url": "Mountain_Cicada_brown_Mallard_Wing.jpg",
@@ -2535,7 +2536,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Mountain Cicada Green",
     "flyCategory": "Terrestrials",
     "image_url": "Mountain_Cicada_green.jpg",
@@ -2559,7 +2560,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Mountain Cicada Green Mallard Wing",
     "flyCategory": "Terrestrials",
     "image_url": "Mountain_Cicada_green_Mallard_Wing.jpg",
@@ -2583,7 +2584,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Baby Mouse",
     "flyCategory": "Terrestrials",
     "image_url": "Baby_Mouse.jpg",
@@ -2607,7 +2608,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Zonker Mouse",
     "flyCategory": "Terrestrials",
     "image_url": "Zonker_Mouse.jpg",
@@ -2631,7 +2632,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "San Juan Worm Earthworm",
     "flyCategory": "Terrestrials",
     "image_url": "San_Juan_Worm_earthworm.jpg",
@@ -2655,7 +2656,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "San Juan Worm Redworm",
     "flyCategory": "Terrestrials",
     "image_url": "San_Juan_Worm_redworm.jpg",
@@ -2679,7 +2680,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Super Cicada",
     "flyCategory": "Terrestrials",
     "image_url": "SuperCicada.jpg",
@@ -2703,7 +2704,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Super Cicada Brownolive",
     "flyCategory": "Terrestrials",
     "image_url": "SuperCicada_brown&olive.jpg",
@@ -2727,7 +2728,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Super Cicada Naturalolive",
     "flyCategory": "Terrestrials",
     "image_url": "SuperCicada_natural&olive.jpg",
@@ -2751,7 +2752,7 @@
             "Legs": "Brown Rubber"
         }
     }
-}{
+},{
     "flyName": "Streambank Hopper",
     "flyCategory": "Terrestrials",
     "image_url": "Streambank_Hopper.jpg",
@@ -2775,7 +2776,7 @@
             "Legs": "Mottled Yellow Tubular Foam"
         }
     }
-}{
+},{
     "flyName": "Tripledecker",
     "flyCategory": "Terrestrials",
     "image_url": "Tripledecker.jpg",
@@ -2800,7 +2801,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Turks Tarantula Orange Blacklegs",
     "flyCategory": "Terrestrials",
     "image_url": "Turks_Tarantula_orange_blacklegs.jpg",
@@ -2825,7 +2826,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Turks Tarantula Tan Blacklegs",
     "flyCategory": "Terrestrials",
     "image_url": "Turks_Tarantula_tan_blacklegs.jpg",
@@ -2850,7 +2851,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Turks Tarantula Orange Whitelegs",
     "flyCategory": "Terrestrials",
     "image_url": "Turks_Tarantula_orange_whitelegs.jpg",
@@ -2875,7 +2876,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Turks Tarantula Tan Whitelegs",
     "flyCategory": "Terrestrials",
     "image_url": "Turks_Tarantula_tan_whitelegs.jpg",
@@ -2900,7 +2901,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Bomber Black",
     "flyCategory": "Streamers",
     "image_url": "Bomber_black.jpg",
@@ -2925,7 +2926,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Bomber Brown",
     "flyCategory": "Streamers",
     "image_url": "Bomber_brown.jpg",
@@ -2950,7 +2951,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Brown Killer",
     "flyCategory": "Streamers",
     "image_url": "Brown_Killer.jpg",
@@ -2975,7 +2976,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Featherwing Matuka Olivered",
     "flyCategory": "Streamers",
     "image_url": "Featherwing_Matuka_olive&red.jpg",
@@ -3000,7 +3001,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Fuzzy Wuzzy Black",
     "flyCategory": "Streamers",
     "image_url": "Fuzzy_Wuzzy_black.jpg",
@@ -3025,7 +3026,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Fuzzy Wuzzy Brown",
     "flyCategory": "Streamers",
     "image_url": "Fuzzy_Wuzzy_brown.jpg",
@@ -3050,7 +3051,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "La Giaconda",
     "flyCategory": "Streamers",
     "image_url": "La_Giaconda.jpg",
@@ -3075,7 +3076,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Fuzzy Wuzzy Green",
     "flyCategory": "Streamers",
     "image_url": "Fuzzy_Wuzzy_green.jpg",
@@ -3100,7 +3101,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Fuzzy Wuzzy Lumo",
     "flyCategory": "Streamers",
     "image_url": "Fuzzy_Wuzzy_lumo.jpg",
@@ -3125,7 +3126,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Fuzzy Wuzzy Red",
     "flyCategory": "Streamers",
     "image_url": "Fuzzy_Wuzzy_red.jpg",
@@ -3150,7 +3151,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Fuzzy Wuzzy Yellow",
     "flyCategory": "Streamers",
     "image_url": "Fuzzy_Wuzzy_yellow.jpg",
@@ -3175,7 +3176,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Hairy Dog Black",
     "flyCategory": "Streamers",
     "image_url": "Hairy_Dog_black.jpg",
@@ -3200,7 +3201,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Hairy Dog Green",
     "flyCategory": "Streamers",
     "image_url": "Hairy_Dog_green.jpg",
@@ -3225,7 +3226,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Hairy Dog Red",
     "flyCategory": "Streamers",
     "image_url": "Hairy_Dog_red.jpg",
@@ -3250,7 +3251,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Hamills Killer Brown",
     "flyCategory": "Streamers",
     "image_url": "Hamills_Killer_brown.jpg",
@@ -3275,7 +3276,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Hamills Killer Green",
     "flyCategory": "Streamers",
     "image_url": "Hamills_Killer_green.jpg",
@@ -3300,7 +3301,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Hamills Killer 2 X L Green",
     "flyCategory": "Streamers",
     "image_url": "Hamills_Killer_2XL_green.jpg",
@@ -3325,7 +3326,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Hamills Killer Red",
     "flyCategory": "Streamers",
     "image_url": "Hamills_Killer_red.jpg",
@@ -3350,7 +3351,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Hamills Killer Yellow",
     "flyCategory": "Streamers",
     "image_url": "Hamills_Killer_yellow.jpg",
@@ -3375,7 +3376,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Hamills Killer 2 X L Yellow",
     "flyCategory": "Streamers",
     "image_url": "Hamills_Killer_2XL_yellow.jpg",
@@ -3400,7 +3401,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Kilwell Number One",
     "flyCategory": "Streamers",
     "image_url": "Kilwell_Number_One.jpg",
@@ -3425,7 +3426,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Golden Kilwell Green",
     "flyCategory": "Streamers",
     "image_url": "Golden_Kilwell_green.jpg",
@@ -3450,7 +3451,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Golden Kilwell Red",
     "flyCategory": "Streamers",
     "image_url": "Golden_Kilwell_red.jpg",
@@ -3475,7 +3476,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Mallard Killer",
     "flyCategory": "Streamers",
     "image_url": "Mallard_Killer.jpg",
@@ -3500,7 +3501,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Mrs Simpson Green",
     "flyCategory": "Streamers",
     "image_url": "Mrs_Simpson_green.jpg",
@@ -3525,7 +3526,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Mrs Simpson Red",
     "flyCategory": "Streamers",
     "image_url": "Mrs_Simpson_red.jpg",
@@ -3550,7 +3551,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Mrs Simpson Yellow",
     "flyCategory": "Streamers",
     "image_url": "Mrs_Simpson_yellow.jpg",
@@ -3575,7 +3576,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Parsons Glory",
     "flyCategory": "Streamers",
     "image_url": "Parsons_Glory.jpg",
@@ -3600,7 +3601,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Parsons Glory Krystal Overwing",
     "flyCategory": "Streamers",
     "image_url": "Parsons_Glory_Krystal_Overwing.jpg",
@@ -3625,7 +3626,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Parsons Glory Fluorogreen",
     "flyCategory": "Streamers",
     "image_url": "Parsons_Glory_fluorogreen.jpg",
@@ -3650,7 +3651,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Parsons Glory X L Fluorogreen",
     "flyCategory": "Streamers",
     "image_url": "Parsons_Glory_XL_fluorogreen.jpg",
@@ -3675,7 +3676,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Parsons Glory Red",
     "flyCategory": "Streamers",
     "image_url": "Parsons_Glory_red.jpg",
@@ -3700,7 +3701,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Parsons Glory Red Krystal Overwing",
     "flyCategory": "Streamers",
     "image_url": "Parsons_Glory_red_Krystal_Overwing.jpg",
@@ -3725,7 +3726,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Red Setter",
     "flyCategory": "Streamers",
     "image_url": "Red_Setter.jpg",
@@ -3750,7 +3751,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Red Setter Pup",
     "flyCategory": "Streamers",
     "image_url": "Red_Setter_Pup.jpg",
@@ -3775,7 +3776,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Rabbit Blondepink",
     "flyCategory": "Streamers",
     "image_url": "Rabbit_blonde&pink.jpg",
@@ -3800,7 +3801,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Rabbit Black",
     "flyCategory": "Streamers",
     "image_url": "Rabbit_black.jpg",
@@ -3825,7 +3826,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Rabbit Burnt Orange",
     "flyCategory": "Streamers",
     "image_url": "Rabbit_BurntOrange.jpg",
@@ -3850,7 +3851,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Rabbit Flashwing Olive",
     "flyCategory": "Streamers",
     "image_url": "Rabbit_Flashwing_Olive.jpg",
@@ -3875,7 +3876,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Rabbit Fluoro Flamegreen",
     "flyCategory": "Streamers",
     "image_url": "Rabbit_Fluoro_flame&green.jpg",
@@ -3900,7 +3901,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Rabbit Green",
     "flyCategory": "Streamers",
     "image_url": "Rabbit_green.jpg",
@@ -3925,7 +3926,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Rabbit Greenred",
     "flyCategory": "Streamers",
     "image_url": "Rabbit_green&red.jpg",
@@ -3950,7 +3951,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Rabbit Lightolivered",
     "flyCategory": "Streamers",
     "image_url": "Rabbit_lightolive&red.jpg",
@@ -3975,7 +3976,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Rabbit Redolive",
     "flyCategory": "Streamers",
     "image_url": "Rabbit_red&olive.jpg",
@@ -4000,7 +4001,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Rabbit Orange",
     "flyCategory": "Streamers",
     "image_url": "Rabbit_orange.jpg",
@@ -4025,7 +4026,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Rabbit Red",
     "flyCategory": "Streamers",
     "image_url": "Rabbit_red.jpg",
@@ -4050,7 +4051,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Rabbit Redhead Red",
     "flyCategory": "Streamers",
     "image_url": "Rabbit_Redhead_red.jpg",
@@ -4075,7 +4076,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Rabbit Yellow",
     "flyCategory": "Streamers",
     "image_url": "Rabbit_yellow.jpg",
@@ -4100,7 +4101,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Rabbit Smelt",
     "flyCategory": "Streamers",
     "image_url": "Rabbit_Smelt.jpg",
@@ -4125,7 +4126,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Flashabugger Oliveolive Goldbead",
     "flyCategory": "Flashabuggers",
     "image_url": "Flashabugger_olive&olive_Goldbead.jpg",
@@ -4150,7 +4151,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger Blackblack",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_black&black.jpg",
@@ -4175,7 +4176,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger Blackgreen",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_black&green.jpg",
@@ -4200,7 +4201,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger Grizzlyinsectgreen",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_grizzly&insectgreen.jpg",
@@ -4225,7 +4226,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger Brownbrown",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_brown&brown.jpg",
@@ -4250,7 +4251,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger Grizzlyblack",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_grizzly&black.jpg",
@@ -4275,7 +4276,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger Grizzlybrown",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_grizzly&brown.jpg",
@@ -4300,7 +4301,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger Grizzlyolive Goldbead",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_grizzly&olive_Goldbead.jpg",
@@ -4325,7 +4326,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger Grizzlyolive Redbead",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_grizzly&olive_Redbead.jpg",
@@ -4350,7 +4351,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger Grizzlylightolive",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_grizzly&lightolive.jpg",
@@ -4375,7 +4376,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger Oliveolive",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_olive&olive.jpg",
@@ -4400,7 +4401,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger Oliveinsectgreen",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_olive&insectgreen.jpg",
@@ -4425,7 +4426,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Flashabugger 3 X L Blackgreen",
     "flyCategory": "Flashabuggers",
     "image_url": "Flashabugger_3XL_black&green.jpg",
@@ -4450,7 +4451,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Flashabugger 3 X L Blackpeacock",
     "flyCategory": "Flashabuggers",
     "image_url": "Flashabugger_3XL_black&peacock.jpg",
@@ -4475,7 +4476,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Flashabugger 1 X L Blackgreen Goldbead",
     "flyCategory": "Flashabuggers",
     "image_url": "Flashabugger_1XL_black&green_Goldbead.jpg",
@@ -4500,7 +4501,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Flashabugger 3 X L Blackgreen Goldbead",
     "flyCategory": "Flashabuggers",
     "image_url": "Flashabugger_3XL_black&green_Goldbead.jpg",
@@ -4525,7 +4526,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Flashabugger 3 X L Blackpeacock Goldbead",
     "flyCategory": "Flashabuggers",
     "image_url": "Flashabugger_3XL_black&peacock_Goldbead.jpg",
@@ -4550,7 +4551,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Flashabugger 3 X L Browngrizzlypeacock Goldbead",
     "flyCategory": "Flashabuggers",
     "image_url": "Flashabugger_3XL_browngrizzlypeacock_Goldbead.jpg",
@@ -4575,7 +4576,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Flashabugger 1 X L Oliveolive Goldbead",
     "flyCategory": "Flashabuggers",
     "image_url": "Flashabugger_1XL_olive&olive_Goldbead.jpg",
@@ -4600,7 +4601,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Flashabugger 3 X L Oliveolive Goldbead",
     "flyCategory": "Flashabuggers",
     "image_url": "Flashabugger_3XL_olive&olive_Goldbead.jpg",
@@ -4625,7 +4626,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger Orange Tag Honeyolive",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_OrangeTag_honey&olive.jpg",
@@ -4650,7 +4651,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger Orange Tag Honeyolive Goldbead",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_OrangeTag_honey&olive_Goldbead.jpg",
@@ -4675,7 +4676,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger 2 X L Grizzlyinsectgreen",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_2XL_grizzly&insectgreen.jpg",
@@ -4700,7 +4701,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger 2 X L Grizzlyolive",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_2XL_grizzly&olive.jpg",
@@ -4725,7 +4726,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger 2 X L Oliveolive",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_2XL_olive&olive.jpg",
@@ -4750,7 +4751,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger 3 X L Blackpeacock",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_3XL_black&peacock.jpg",
@@ -4775,7 +4776,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger 3 X L Brownbrown",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_3XL_brown&brown.jpg",
@@ -4800,7 +4801,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger 3 X L Grizzlyblack",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_3XL_grizzly&black.jpg",
@@ -4825,7 +4826,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger 3 X L Grizzlybrown",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_3XL_grizzly&brown.jpg",
@@ -4850,7 +4851,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger 3 X L Grizzlyinsectgreen",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_3XL_grizzly&insectgreen.jpg",
@@ -4875,7 +4876,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger 3 X L Oliveinsectgreen",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_3XL_olive&insectgreen.jpg",
@@ -4900,7 +4901,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger 3 X L Olivepurple E S T A Z",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_3XL_olive&purpleESTAZ.jpg",
@@ -4925,7 +4926,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger 3 X L Grizzlyolive",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_3XL_grizzly&olive.jpg",
@@ -4950,7 +4951,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger 3 X L Oliveolive",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_3XL_olive&olive.jpg",
@@ -4975,7 +4976,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger 3 X L Black Goldbead",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_3XL_black_Goldbead.jpg",
@@ -5000,7 +5001,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger 3 X L Oliveolive Goldbead",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_3XL_olive&olive_Goldbead.jpg",
@@ -5025,7 +5026,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger 2 X L Blackgrizzlyburntorange",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_2XL_black&grizzly&burntorange.jpg",
@@ -5050,7 +5051,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger 3 X L Grizzlyolive Goldbead",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_3XL_grizzly&olive_Goldbead.jpg",
@@ -5075,7 +5076,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger 3 X L Grizzlyolive Redbead",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_3XL_grizzly&olive_Redbead.jpg",
@@ -5100,7 +5101,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Woolly Bugger 3 X L Grizzlyinsectgreen Goldbead",
     "flyCategory": "Flashabuggers",
     "image_url": "Woolly_Bugger_3XL_grizzly&insectgreen_Goldbead.jpg",
@@ -5125,7 +5126,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Blackwing Optic Matuka Muddler",
     "flyCategory": "Streamers",
     "image_url": "Blackwing_Optic_Matuka_Muddler.jpg",
@@ -5150,7 +5151,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Brown Zonker",
     "flyCategory": "Streamers",
     "image_url": "Brown_Zonker.jpg",
@@ -5175,7 +5176,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Burglar Olive",
     "flyCategory": "Streamers",
     "image_url": "Burglar_olive.jpg",
@@ -5200,7 +5201,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Burglar Hackle Tail",
     "flyCategory": "Streamers",
     "image_url": "Burglar_Hackle_Tail.jpg",
@@ -5225,7 +5226,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Burglar Krystal Red",
     "flyCategory": "Streamers",
     "image_url": "Burglar_Krystal_Red.jpg",
@@ -5250,7 +5251,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Crystal Crayfish",
     "flyCategory": "Streamers",
     "image_url": "Crystal_Crayfish.jpg",
@@ -5275,7 +5276,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Crystal Crayfish Blackgreen",
     "flyCategory": "Streamers",
     "image_url": "Crystal_Crayfish_black&green.jpg",
@@ -5300,7 +5301,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Deer Hair Sculpin",
     "flyCategory": "Streamers",
     "image_url": "Deer_Hair_Sculpin.jpg",
@@ -5325,7 +5326,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Dorothy Silver",
     "flyCategory": "Streamers",
     "image_url": "Dorothy_silver.jpg",
@@ -5350,7 +5351,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Franks Lumo Marabou",
     "flyCategory": "Streamers",
     "image_url": "Franks_Lumo_Marabou.jpg",
@@ -5375,7 +5376,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Ginger Mick",
     "flyCategory": "Streamers",
     "image_url": "Ginger_Mick.jpg",
@@ -5400,7 +5401,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Ginger Mick Silverbody",
     "flyCategory": "Streamers",
     "image_url": "Ginger_Mick_silverbody.jpg",
@@ -5425,7 +5426,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Ginger Mick Silverbody Krystal Flash",
     "flyCategory": "Streamers",
     "image_url": "Ginger_Mick_silverbody_KrystalFlash.jpg",
@@ -5450,7 +5451,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Ginger Mick Flashabou",
     "flyCategory": "Streamers",
     "image_url": "Ginger_Mick_Flashabou.jpg",
@@ -5475,7 +5476,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Ginger Mick Krystal Flash",
     "flyCategory": "Streamers",
     "image_url": "Ginger_Mick_KrystalFlash.jpg",
@@ -5500,7 +5501,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Green Orbit Krystal Flash",
     "flyCategory": "Streamers",
     "image_url": "Green_Orbit_KrystalFlash.jpg",
@@ -5525,7 +5526,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Green Orbit Olive Body",
     "flyCategory": "Streamers",
     "image_url": "Green_Orbit_OliveBody.jpg",
@@ -5550,7 +5551,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Green Orbit Purple Red",
     "flyCategory": "Streamers",
     "image_url": "Green_Orbit_Purple&Red.jpg",
@@ -5575,7 +5576,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Green Orbit Red Body",
     "flyCategory": "Streamers",
     "image_url": "Green_Orbit_RedBody.jpg",
@@ -5600,7 +5601,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Gray Ghost Fluorogreen",
     "flyCategory": "Streamers",
     "image_url": "Gray_Ghost_fluorogreen.jpg",
@@ -5625,7 +5626,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Gray Ghost Pearl U V Ghostwhite",
     "flyCategory": "Streamers",
     "image_url": "Gray_Ghost_pearl_UV_ghostwhite.jpg",
@@ -5650,7 +5651,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Gray Ghost Pearl U V",
     "flyCategory": "Streamers",
     "image_url": "Gray_Ghost_pearl_UV.jpg",
@@ -5675,7 +5676,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Grey Ghost Epoxy Head",
     "flyCategory": "Streamers",
     "image_url": "Grey_Ghost_Epoxy_Head.jpg",
@@ -5700,7 +5701,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Grey Ghost Epoxy Head Dark",
     "flyCategory": "Streamers",
     "image_url": "Grey_Ghost_Epoxy_Head_dark.jpg",
@@ -5725,7 +5726,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Grey Ghost Epoxy Head Purplehaze",
     "flyCategory": "Streamers",
     "image_url": "Grey_Ghost_Epoxy_Head_Purplehaze.jpg",
@@ -5750,7 +5751,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Humpback Booby Black",
     "flyCategory": "Streamers",
     "image_url": "Humpback_Booby_black.jpg",
@@ -5775,7 +5776,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Humpback Booby Olive",
     "flyCategory": "Streamers",
     "image_url": "Humpback_Booby_olive.jpg",
@@ -5800,7 +5801,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Humpback Booby Pearl",
     "flyCategory": "Streamers",
     "image_url": "Humpback_Booby_pearl.jpg",
@@ -5825,7 +5826,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Ice Rabbit",
     "flyCategory": "Streamers",
     "image_url": "Ice_Rabbit.jpg",
@@ -5850,7 +5851,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Jansen Baby Brook",
     "flyCategory": "Streamers",
     "image_url": "Jansen_Baby_Brook.jpg",
@@ -5875,7 +5876,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Jansen Baby Brown",
     "flyCategory": "Streamers",
     "image_url": "Jansen_Baby_Brown.jpg",
@@ -5900,7 +5901,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Jansen Baby Rainbow",
     "flyCategory": "Streamers",
     "image_url": "Jansen_Baby_Rainbow.jpg",
@@ -5925,7 +5926,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Koura Crayfish",
     "flyCategory": "Streamers",
     "image_url": "Koura_Crayfish.jpg",
@@ -5950,7 +5951,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Lumo Craigs Nighttime",
     "flyCategory": "Streamers",
     "image_url": "Lumo_Craigs_Nighttime.jpg",
@@ -5975,7 +5976,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Lumo Scotch Poacher",
     "flyCategory": "Streamers",
     "image_url": "Lumo_Scotch_Poacher.jpg",
@@ -6000,7 +6001,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Jack Spratt",
     "flyCategory": "Streamers",
     "image_url": "Jack_Spratt.jpg",
@@ -6025,7 +6026,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Jack Spratt Honeygrizzly",
     "flyCategory": "Streamers",
     "image_url": "Jack_Spratt_honeygrizzly.jpg",
@@ -6050,7 +6051,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Mallard Smelt Epoxypearl",
     "flyCategory": "Streamers",
     "image_url": "Mallard_Smelt_epoxy&pearl.jpg",
@@ -6075,7 +6076,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Mallard Smelt Epoxypearl Blue",
     "flyCategory": "Streamers",
     "image_url": "Mallard_Smelt_epoxy&pearl_blue.jpg",
@@ -6100,7 +6101,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Mallard Smelt Epoxypearl Lightblue",
     "flyCategory": "Streamers",
     "image_url": "Mallard_Smelt_epoxy&pearl_lightblue.jpg",
@@ -6125,7 +6126,7 @@
             "Wingcase": "Yellow Foam Rubber"
         }
     }
-}{
+},{
     "flyName": "Mallard Claret",
     "flyCategory": "Streamers",
     "image_url": "Mallard&Claret.jpg",
@@ -6150,7 +6151,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Marabou Leech Blackolive",
     "flyCategory": "Streamers",
     "image_url": "Marabou_Leech_black&olive.jpg",
@@ -6175,7 +6176,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Marabou Leech Oliveolive",
     "flyCategory": "Streamers",
     "image_url": "Marabou_Leech_olive&olive.jpg",
@@ -6200,7 +6201,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Natural Zonker",
     "flyCategory": "Streamers",
     "image_url": "Natural_Zonker.jpg",
@@ -6225,7 +6226,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Zonker Smelt",
     "flyCategory": "Streamers",
     "image_url": "Zonker_Smelt.jpg",
@@ -6250,7 +6251,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Pearl Booby",
     "flyCategory": "Streamers",
     "image_url": "Pearl_Booby.jpg",
@@ -6275,7 +6276,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Rabbit Bully",
     "flyCategory": "Streamers",
     "image_url": "Rabbit_Bully.jpg",
@@ -6300,7 +6301,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Silicone Smelt",
     "flyCategory": "Streamers",
     "image_url": "Silicone_Smelt.jpg",
@@ -6325,7 +6326,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Softshell Crayfish",
     "flyCategory": "Streamers",
     "image_url": "Softshell_Crayfish.jpg",
@@ -6350,7 +6351,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Taupo Tiger",
     "flyCategory": "Streamers",
     "image_url": "Taupo_Tiger.jpg",
@@ -6375,7 +6376,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Taupo Tiger Yellow",
     "flyCategory": "Streamers",
     "image_url": "Taupo_Tiger_yellow.jpg",
@@ -6400,7 +6401,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Taupo Tiger Fluorogreen",
     "flyCategory": "Streamers",
     "image_url": "Taupo_Tiger_fluorogreen.jpg",
@@ -6425,7 +6426,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Taupo Tiger Furnace Purple",
     "flyCategory": "Streamers",
     "image_url": "Taupo_Tiger_furnace_purple.jpg",
@@ -6450,7 +6451,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Taupo Tiger Furnace Red",
     "flyCategory": "Streamers",
     "image_url": "Taupo_Tiger_furnace_red.jpg",
@@ -6475,7 +6476,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Tims Special",
     "flyCategory": "Streamers",
     "image_url": "Tims_Special.jpg",
@@ -6500,7 +6501,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Yellow Lady",
     "flyCategory": "Streamers",
     "image_url": "Yellow_Lady.jpg",
@@ -6525,7 +6526,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Zonker Black",
     "flyCategory": "Streamers",
     "image_url": "Zonker_black.jpg",
@@ -6550,7 +6551,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Zonker Olive",
     "flyCategory": "Streamers",
     "image_url": "Zonker_olive.jpg",
@@ -6575,7 +6576,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Zonker White",
     "flyCategory": "Streamers",
     "image_url": "Zonker_white.jpg",
@@ -6600,7 +6601,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Zonker White_Cutthroat",
     "flyCategory": "Streamers",
     "image_url": "Zonker_white_cutthroat.jpg",
@@ -6625,7 +6626,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Black Peacock",
     "flyCategory": "nymphs",
     "image_url": "Black&Peacock.jpg",
@@ -6650,7 +6651,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Black Gnat Wetfly",
     "flyCategory": "nymphs",
     "image_url": "Black_Gnat_wetfly.jpg",
@@ -6675,7 +6676,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Emerger Brownolive",
     "flyCategory": "nymphs",
     "image_url": "CDC_Emerger_brown&olive.jpg",
@@ -6700,7 +6701,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Chironomid Pupa",
     "flyCategory": "nymphs",
     "image_url": "Chironomid_Pupa.jpg",
@@ -6725,7 +6726,7 @@
             "Wingcase": "Gold Wire"
         }
     }
-}{
+},{
     "flyName": "Copperjohn Green",
     "flyCategory": "nymphs",
     "image_url": "Copperjohn_green.jpg",
@@ -6750,7 +6751,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Copperjohn Lime",
     "flyCategory": "nymphs",
     "image_url": "Copperjohn_lime.jpg",
@@ -6775,7 +6776,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Creeper",
     "flyCategory": "nymphs",
     "image_url": "Creeper.jpg",
@@ -6800,7 +6801,7 @@
             "Wingcase": "Black-Dyed Mallard"
         }
     }
-}{
+},{
     "flyName": "Czech Nymph",
     "flyCategory": "Nymphs",
     "image_url": "Czech_Nymph.jpg",
@@ -6825,7 +6826,7 @@
             "Wingcase": "Black-Dyed Mallard"
         }
     }
-}{
+},{
     "flyName": "Dads Favourite Wetfly",
     "flyCategory": "nymphs",
     "image_url": "Dads_Favourite_wetfly.jpg",
@@ -6850,7 +6851,7 @@
             "Wingcase": "Black-Dyed Mallard"
         }
     }
-}{
+},{
     "flyName": "Stone Olive",
     "flyCategory": "nymphs",
     "image_url": "Stone_olive.jpg",
@@ -6875,7 +6876,7 @@
             "Wingcase": "Black-Dyed Mallard"
         }
     }
-}{
+},{
     "flyName": "Damsel Olive",
     "flyCategory": "nymphs",
     "image_url": "Damsel_olive.jpg",
@@ -6900,7 +6901,7 @@
             "Wingcase": "Olive Swiss Straw"
         }
     }
-}{
+},{
     "flyName": "Dragonfly Swimming",
     "flyCategory": "nymphs",
     "image_url": "Dragonfly_Swimming.jpg",
@@ -6925,7 +6926,7 @@
             "Wingcase": "Dark Turkey Feather Segment"
         }
     }
-}{
+},{
     "flyName": "Dragonfly Swimming Longlegs",
     "flyCategory": "nymphs",
     "image_url": "Dragonfly_Swimming_longlegs.jpg",
@@ -6950,7 +6951,7 @@
             "Wingcase": "Dark Turkey Feather Segment"
         }
     }
-}{
+},{
     "flyName": "Daves Claret Nymph",
     "flyCategory": "nymphs",
     "image_url": "Daves_Claret_Nymph.jpg",
@@ -6975,7 +6976,7 @@
             "Wingcase": "Dark Turkey Feather Segment"
         }
     }
-}{
+},{
     "flyName": "Flashback Black Rubberlegs",
     "flyCategory": "nymphs",
     "image_url": "Flashback_black_rubberlegs.jpg",
@@ -7000,7 +7001,7 @@
             "Wingcase": "Dark Turkey Feather Segment"
         }
     }
-}{
+},{
     "flyName": "Franks Flashback",
     "flyCategory": "nymphs",
     "image_url": "Franks_Flashback.jpg",
@@ -7025,7 +7026,7 @@
             "Wingcase": "Flat Silver Tinsel"
         }
     }
-}{
+},{
     "flyName": "Franks Flashback Pearl",
     "flyCategory": "nymphs",
     "image_url": "Franks_Flashback_pearl.jpg",
@@ -7050,7 +7051,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Frying Pan",
     "flyCategory": "nymphs",
     "image_url": "Frying_Pan.jpg",
@@ -7075,7 +7076,7 @@
             "Wingcase": "Black-Dyed Mallard"
         }
     }
-}{
+},{
     "flyName": "Frying Pan Flashback",
     "flyCategory": "nymphs",
     "image_url": "Frying_Pan_Flashback.jpg",
@@ -7100,7 +7101,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Ginger Quill Wetfly",
     "flyCategory": "nymphs",
     "image_url": "Ginger_Quill_wetfly.jpg",
@@ -7125,7 +7126,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Greenwells Glory Wetfly",
     "flyCategory": "nymphs",
     "image_url": "Greenwells_Glory_wetfly.jpg",
@@ -7150,7 +7151,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Halfback Nohackle",
     "flyCategory": "nymphs",
     "image_url": "Halfback_nohackle.jpg",
@@ -7175,7 +7176,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Halfback",
     "flyCategory": "nymphs",
     "image_url": "Halfback.jpg",
@@ -7200,7 +7201,7 @@
             "Wingcase": "Brown Swannundaze"
         }
     }
-}{
+},{
     "flyName": "March Brown",
     "flyCategory": "nymphs",
     "image_url": "March_Brown.jpg",
@@ -7225,7 +7226,7 @@
             "Wingcase": "Light Brown Turkey Feather Fibers"
         }
     }
-}{
+},{
     "flyName": "March Brown Wetfly",
     "flyCategory": "nymphs",
     "image_url": "March_Brown_wetfly.jpg",
@@ -7250,7 +7251,7 @@
             "Wingcase": "Light Brown Turkey Feather Fibers"
         }
     }
-}{
+},{
     "flyName": "March Brown Wetfly Grub",
     "flyCategory": "nymphs",
     "image_url": "March_Brown_wetfly_grub.jpg",
@@ -7275,7 +7276,7 @@
             "Wingcase": "Light Brown Turkey Feather Fibers"
         }
     }
-}{
+},{
     "flyName": "Prince Beadless",
     "flyCategory": "nymphs",
     "image_url": "Prince_beadless.jpg",
@@ -7300,7 +7301,7 @@
             "Wingcase": "Light Brown Turkey Feather Fibers"
         }
     }
-}{
+},{
     "flyName": "Red Blood Worm",
     "flyCategory": "nymphs",
     "image_url": "Red_Blood_Worm.jpg",
@@ -7325,7 +7326,7 @@
             "Wingcase": "Light Brown Turkey Feather Fibers"
         }
     }
-}{
+},{
     "flyName": "Ricos Stonefly Olive",
     "flyCategory": "nymphs",
     "image_url": "Ricos_Stonefly_olive.jpg",
@@ -7350,7 +7351,7 @@
             "Wingcase": "Olive Nylon Fabric"
         }
     }
-}{
+},{
     "flyName": "Steves Green Stone",
     "flyCategory": "nymphs",
     "image_url": "Steves_Green_Stone.jpg",
@@ -7375,7 +7376,7 @@
             "Wingcase": "Olive Plastic Film"
         }
     }
-}{
+},{
     "flyName": "Stone Braided Blackpearl",
     "flyCategory": "nymphs",
     "image_url": "Stone_Braided_black&pearl.jpg",
@@ -7400,7 +7401,7 @@
             "Wingcase": "Black Swiss Straw"
         }
     }
-}{
+},{
     "flyName": "Stone Braided Chocolatepearl",
     "flyCategory": "nymphs",
     "image_url": "Stone_Braided_chocolate&pearl.jpg",
@@ -7425,7 +7426,7 @@
             "Wingcase": "Chocolate Swiss Straw"
         }
     }
-}{
+},{
     "flyName": "Stone Dark",
     "flyCategory": "nymphs",
     "image_url": "Stone_Dark.jpg",
@@ -7450,7 +7451,7 @@
             "Wingcase": "Rust Scintilla Fibers"
         }
     }
-}{
+},{
     "flyName": "Stone Brownolive",
     "flyCategory": "nymphs",
     "image_url": "Stone_brown&olive.jpg",
@@ -7475,7 +7476,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Timberline Emerger",
     "flyCategory": "nymphs",
     "image_url": "Timberline_Emerger.jpg",
@@ -7500,7 +7501,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Water Boatman",
     "flyCategory": "nymphs",
     "image_url": "Water_Boatman.jpg",
@@ -7525,7 +7526,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Zug Bug",
     "flyCategory": "nymphs",
     "image_url": "Zug_Bug.jpg",
@@ -7550,7 +7551,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Black Elk Wing Emerger",
     "flyCategory": "Nymphs",
     "image_url": "Black_Elk_Wing_Emerger.jpg",
@@ -7575,7 +7576,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Brassie",
     "flyCategory": "Nymphs",
     "image_url": "Brassie.jpg",
@@ -7600,7 +7601,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Brassie_Red",
     "flyCategory": "Nymphs",
     "image_url": "Brassie_red.jpg",
@@ -7625,7 +7626,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Caddis Pearl",
     "flyCategory": "Nymphs",
     "image_url": "Caddis_pearl.jpg",
@@ -7650,7 +7651,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Caddis White",
     "flyCategory": "Nymphs",
     "image_url": "Caddis_white.jpg",
@@ -7675,7 +7676,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Caddis Rockworm Green",
     "flyCategory": "Nymphs",
     "image_url": "Caddis_Rockworm_green.jpg",
@@ -7700,7 +7701,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Caddis Rockworm Olive",
     "flyCategory": "Nymphs",
     "image_url": "Caddis_Rockworm_olive.jpg",
@@ -7725,7 +7726,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Czech Nymph",
     "flyCategory": "Nymphs",
     "image_url": "Czech_Nymph.jpg",
@@ -7750,7 +7751,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Electric Caddis Olive",
     "flyCategory": "Nymphs",
     "image_url": "Electric_Caddis_Olive.jpg",
@@ -7775,7 +7776,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Jeffs Caddis",
     "flyCategory": "Nymphs",
     "image_url": "Jeffs_Caddis.jpg",
@@ -7800,7 +7801,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Netbuilder",
     "flyCategory": "Nymphs",
     "image_url": "Netbuilder.jpg",
@@ -7825,7 +7826,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Netbuilder Amber",
     "flyCategory": "Nymphs",
     "image_url": "Netbuilder_Amber.jpg",
@@ -7850,7 +7851,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Netbuilder Olive",
     "flyCategory": "Nymphs",
     "image_url": "Netbuilder_Olive.jpg",
@@ -7875,7 +7876,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Willow Grub",
     "flyCategory": "Nymphs",
     "image_url": "Willow_Grub.jpg",
@@ -7900,7 +7901,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Willow Grub Peacock Thorax",
     "flyCategory": "Nymphs",
     "image_url": "Willow_Grub_peacock_thorax.jpg",
@@ -7925,7 +7926,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Z Wing Olive Amber",
     "flyCategory": "Nymphs",
     "image_url": "Z_Wing_Olive&Amber.jpg",
@@ -7950,7 +7951,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Hare Copper",
     "flyCategory": "Nymphs",
     "image_url": "Hare&Copper.jpg",
@@ -7975,7 +7976,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Hares Ear Goldribbed",
     "flyCategory": "Nymphs",
     "image_url": "Hares_Ear_goldribbed.jpg",
@@ -8000,7 +8001,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Hares Ear Goldribbed Flashback",
     "flyCategory": "Nymphs",
     "image_url": "Hares_Ear_goldribbed_Flashback.jpg",
@@ -8025,7 +8026,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Pheasant Tail",
     "flyCategory": "Tails",
     "image_url": "Pheasant_Tail.jpg",
@@ -8050,7 +8051,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Pheasant Tail Original",
     "flyCategory": "Tails",
     "image_url": "Pheasant_Tail_original.jpg",
@@ -8075,7 +8076,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Pheasant Tail Copper Thorax",
     "flyCategory": "Tails",
     "image_url": "Pheasant_Tail_Copper_Thorax.jpg",
@@ -8100,7 +8101,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Pheasant Tail Fluorescent Orange Thorax",
     "flyCategory": "Tails",
     "image_url": "Pheasant_Tail_fluorescent_orange_Thorax.jpg",
@@ -8125,7 +8126,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Pheasant Tail Full Flashback",
     "flyCategory": "Tails",
     "image_url": "Pheasant_Tail_Full_Flashback.jpg",
@@ -8150,7 +8151,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Pheasant Tail Flashback",
     "flyCategory": "Tails",
     "image_url": "Pheasant_Tail_Flashback.jpg",
@@ -8175,7 +8176,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Red Pheasant Tail Flashback",
     "flyCategory": "Tails",
     "image_url": "Red_Pheasant_Tail_Flashback.jpg",
@@ -8200,7 +8201,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Red Pheasant Tail",
     "flyCategory": "Tails",
     "image_url": "Red_Pheasant_Tail.jpg",
@@ -8225,7 +8226,7 @@
             "Wingcase": "Dyed Red Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Red Pheasant Tail Original",
     "flyCategory": "Tails",
     "image_url": "Red_Pheasant_Tail_original.jpg",
@@ -8250,7 +8251,7 @@
             "Wingcase": "Dyed Red Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Red Pheasant Tail Copper Thorax",
     "flyCategory": "Tails",
     "image_url": "Red_Pheasant_Tail_Copper_Thorax.jpg",
@@ -8275,7 +8276,7 @@
             "Wingcase": "Dyed Red Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Goldbead Bubbleback Emerger",
     "flyCategory": "Nymphs",
     "image_url": "Goldbead_Bubbleback_Emerger.jpg",
@@ -8300,7 +8301,7 @@
             "Wingcase": "Pearl Flashabou"
         }
     }
-}{
+},{
     "flyName": "Flashback Olive Goldbead",
     "flyCategory": "Nymphs",
     "image_url": "Flashback_olive_Goldbead.jpg",
@@ -8325,7 +8326,7 @@
             "Wingcase": "Goat Skin"
         }
     }
-}{
+},{
     "flyName": "Copperbead Swimming Peacock",
     "flyCategory": "Nymphs",
     "image_url": "Copperbead_Swimming_Peacock.jpg",
@@ -8350,7 +8351,7 @@
             "Wingcase": "Goat Skin"
         }
     }
-}{
+},{
     "flyName": "Copperjohn Copperbead",
     "flyCategory": "Nymphs",
     "image_url": "Copperjohn_Copperbead.jpg",
@@ -8375,7 +8376,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Copperjohn Goldbead",
     "flyCategory": "Nymphs",
     "image_url": "Copperjohn_Goldbead.jpg",
@@ -8400,7 +8401,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Copperjohn Red Goldbead",
     "flyCategory": "Nymphs",
     "image_url": "Copperjohn_red_Goldbead.jpg",
@@ -8425,7 +8426,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Rubberlegged Copperjohn Goldbead",
     "flyCategory": "Nymphs",
     "image_url": "Rubberlegged_Copperjohn_Goldbead.jpg",
@@ -8450,7 +8451,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Copperjohn Lime Goldbead",
     "flyCategory": "Nymphs",
     "image_url": "Copperjohn_lime_Goldbead.jpg",
@@ -8475,7 +8476,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Dutch Goldbead",
     "flyCategory": "Nymphs",
     "image_url": "Dutch_CDC_Goldbead.jpg",
@@ -8500,7 +8501,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Dark Lord",
     "flyCategory": "Nymphs",
     "image_url": "Dark_Lord.jpg",
@@ -8525,7 +8526,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Glitter Epoxy Copper Bomb Copperbead",
     "flyCategory": "Nymphs",
     "image_url": "Glitter_Epoxy_Copper_Bomb_Copperbead.jpg",
@@ -8550,7 +8551,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Glitter Epoxy Copper Bomb Goldbead",
     "flyCategory": "Nymphs",
     "image_url": "Glitter_Epoxy_Copper_Bomb_Goldbead.jpg",
@@ -8575,7 +8576,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Goldbead Flashback Rubberlegged Prince",
     "flyCategory": "Nymphs",
     "image_url": "Goldbead_Flashback_Rubberlegged_Prince.jpg",
@@ -8600,7 +8601,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Halfback Goldbead Nohackle",
     "flyCategory": "Nymphs",
     "image_url": "Halfback_Goldbead_nohackle.jpg",
@@ -8625,7 +8626,7 @@
             "Wingcase": "Brown Swannundaze"
         }
     }
-}{
+},{
     "flyName": "Halfback Goldbead",
     "flyCategory": "Nymphs",
     "image_url": "Halfback_Goldbead.jpg",
@@ -8650,7 +8651,7 @@
             "Wingcase": "Brown Swannundaze"
         }
     }
-}{
+},{
     "flyName": "Copperbead Micro Mayfly Brown",
     "flyCategory": "Nymphs",
     "image_url": "Copperbead_Micro_Mayfly_brown.jpg",
@@ -8675,7 +8676,7 @@
             "Wingcase": "Mottled Turkey Feather"
         }
     }
-}{
+},{
     "flyName": "Copperbead Micro Mayfly Olive",
     "flyCategory": "Nymphs",
     "image_url": "Copperbead_Micro_Mayfly_olive.jpg",
@@ -8700,7 +8701,7 @@
             "Wingcase": "Mottled Turkey Feather"
         }
     }
-}{
+},{
     "flyName": "Nymph Deluxe",
     "flyCategory": "Nymphs",
     "image_url": "Nymph_Deluxe.jpg",
@@ -8725,7 +8726,7 @@
             "Wingcase": "Goat Skin"
         }
     }
-}{
+},{
     "flyName": "Prince Copperbead",
     "flyCategory": "Nymphs",
     "image_url": "Prince_Copperbead.jpg",
@@ -8750,7 +8751,7 @@
             "Wingcase": "Goat Skin"
         }
     }
-}{
+},{
     "flyName": "Prince Goldbead",
     "flyCategory": "Nymphs",
     "image_url": "Prince_Goldbead.jpg",
@@ -8775,7 +8776,7 @@
             "Wingcase": "Goat Skin"
         }
     }
-}{
+},{
     "flyName": "Goldbead Bloodworm",
     "flyCategory": "Nymphs",
     "image_url": "Goldbead_Bloodworm.jpg",
@@ -8800,7 +8801,7 @@
             "Wingcase": "Goat Skin"
         }
     }
-}{
+},{
     "flyName": "Stone Golden Rubberlegs Goldbead",
     "flyCategory": "Nymphs",
     "image_url": "Stone_golden_Rubberlegs_Goldbead.jpg",
@@ -8825,7 +8826,7 @@
             "Wingcase": "Mottled Turkey Feather Segment"
         }
     }
-}{
+},{
     "flyName": "Blackbead Caddis Chartreuse",
     "flyCategory": "Nymphs",
     "image_url": "Blackbead_Caddis_chartreuse.jpg",
@@ -8850,7 +8851,7 @@
             "Wingcase": "Mottled Turkey Feather Segment"
         }
     }
-}{
+},{
     "flyName": "Blackbead Hares Ear Olive",
     "flyCategory": "Nymphs",
     "image_url": "Blackbead_Hares_Ear_olive.jpg",
@@ -8875,7 +8876,7 @@
             "Wingcase": "Black Mylar"
         }
     }
-}{
+},{
     "flyName": "Blackbead Super Pupa",
     "flyCategory": "Nymphs",
     "image_url": "Blackbead_Super_Pupa.jpg",
@@ -8900,7 +8901,7 @@
             "Wingcase": "Black Mylar"
         }
     }
-}{
+},{
     "flyName": "Blackbead Willow Grub",
     "flyCategory": "Nymphs",
     "image_url": "Blackbead_Willow_Grub.jpg",
@@ -8925,7 +8926,7 @@
             "Wingcase": "Black Mylar"
         }
     }
-}{
+},{
     "flyName": "Blackbead Willow Grub Peacock Thorax",
     "flyCategory": "Nymphs",
     "image_url": "Blackbead_Willow_Grub_peacock_thorax.jpg",
@@ -8950,7 +8951,7 @@
             "Wingcase": "Black Mylar"
         }
     }
-}{
+},{
     "flyName": "Cadillac Pheasant Tail Blackbead",
     "flyCategory": "Nymphs",
     "image_url": "Cadillac_Pheasant_Tail_Blackbead.jpg",
@@ -8975,7 +8976,7 @@
             "Wingcase": "Moose Hair"
         }
     }
-}{
+},{
     "flyName": "Cadillac Pheasant Tail Green Thorax Blackbead",
     "flyCategory": "Nymphs",
     "image_url": "Cadillac_Pheasant_Tail_Green_Thorax_Blackbead.jpg",
@@ -9000,7 +9001,7 @@
             "Wingcase": "Moose Hair"
         }
     }
-}{
+},{
     "flyName": "Cadillac Pheasant Tail Olive Thorax Blackbead",
     "flyCategory": "Nymphs",
     "image_url": "Cadillac_Pheasant_Tail_Olive_Thorax_Blackbead.jpg",
@@ -9025,7 +9026,7 @@
             "Wingcase": "Moose Hair"
         }
     }
-}{
+},{
     "flyName": "Cadillac Pheasant Tail Copperbead",
     "flyCategory": "Nymphs",
     "image_url": "Cadillac_Pheasant_Tail_Copperbead.jpg",
@@ -9050,7 +9051,7 @@
             "Wingcase": "Moose Hair"
         }
     }
-}{
+},{
     "flyName": "Cadillac Pheasant Tail Goldbead",
     "flyCategory": "Nymphs",
     "image_url": "Cadillac_Pheasant_Tail_Goldbead.jpg",
@@ -9075,7 +9076,7 @@
             "Wingcase": "Moose Hair"
         }
     }
-}{
+},{
     "flyName": "Copperbead Stick Caddis",
     "flyCategory": "Nymphs",
     "image_url": "Copperbead_Stick_Caddis.jpg",
@@ -9100,7 +9101,7 @@
             "Wingcase": "Brown Floss"
         }
     }
-}{
+},{
     "flyName": "Goldbead Hare Thorax Brassie",
     "flyCategory": "Nymphs",
     "image_url": "Goldbead_Hare_Thorax_Brassie.jpg",
@@ -9125,7 +9126,7 @@
             "Wingcase": "Brown Floss"
         }
     }
-}{
+},{
     "flyName": "Metallic Caddis Copperbead Copper",
     "flyCategory": "Nymphs",
     "image_url": "Metallic_Caddis_Copperbead_copper.jpg",
@@ -9150,7 +9151,7 @@
             "Wingcase": "Brown Floss"
         }
     }
-}{
+},{
     "flyName": "Metallic Caddis Goldbead Chartreuse",
     "flyCategory": "Nymphs",
     "image_url": "Metallic_Caddis_Goldbead_chartreuse.jpg",
@@ -9175,7 +9176,7 @@
             "Wingcase": "Brown Floss"
         }
     }
-}{
+},{
     "flyName": "Metallic Caddis Goldbead Green",
     "flyCategory": "Nymphs",
     "image_url": "Metallic_Caddis_Goldbead_green.jpg",
@@ -9200,7 +9201,7 @@
             "Wingcase": "Brown Floss"
         }
     }
-}{
+},{
     "flyName": "Blackbead Goldribbed Hares Ear Flashback",
     "flyCategory": "Nymphs",
     "image_url": "Blackbead_Goldribbed_Hares_Ear_Flashback.jpg",
@@ -9225,7 +9226,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Copperbead Goldribbed Hares Ear Flashback",
     "flyCategory": "Nymphs",
     "image_url": "Copperbead_Goldribbed_Hares_Ear_Flashback.jpg",
@@ -9250,7 +9251,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Goldbead Goldribbed Hares Ear Flashback",
     "flyCategory": "Nymphs",
     "image_url": "Goldbead_Goldribbed_Hares_Ear_Flashback.jpg",
@@ -9275,7 +9276,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Blackbead Goldribbed Hares Ear Full Flashback",
     "flyCategory": "Nymphs",
     "image_url": "Blackbead_Goldribbed_Hares_Ear_Full_Flashback.jpg",
@@ -9300,7 +9301,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Copperbead Goldribbed Hares Ear Full Flashback",
     "flyCategory": "Nymphs",
     "image_url": "Copperbead_Goldribbed_Hares_Ear_Full_Flashback.jpg",
@@ -9325,7 +9326,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Goldbead Goldribbed Hares Ear Full Flashback",
     "flyCategory": "Nymphs",
     "image_url": "Goldbead_Goldribbed_Hares_Ear_Full_Flashback.jpg",
@@ -9350,7 +9351,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Goldbead Hares Ear Goldribbed",
     "flyCategory": "Nymphs",
     "image_url": "Goldbead_Hares_Ear_goldribbed.jpg",
@@ -9375,7 +9376,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Hare Copper Goldbead",
     "flyCategory": "Nymphs",
     "image_url": "Hare&Copper_Goldbead.jpg",
@@ -9400,7 +9401,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Hare Copper Copperbead",
     "flyCategory": "Nymphs",
     "image_url": "Hare&Copper_Copperbead.jpg",
@@ -9425,7 +9426,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Hare Copper Copperbead Heavy",
     "flyCategory": "Nymphs",
     "image_url": "Hare&Copper_Copperbead_Heavy.jpg",
@@ -9450,7 +9451,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Hare Copper Goldbead Heavy",
     "flyCategory": "Nymphs",
     "image_url": "Hare&Copper_Goldbead_Heavy.jpg",
@@ -9475,7 +9476,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Heavy Eyed Hairbug",
     "flyCategory": "Nymphs",
     "image_url": "Heavy_Eyed_Hairbug.jpg",
@@ -9500,7 +9501,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Heavy Eyed Hairbug Squirrel",
     "flyCategory": "Nymphs",
     "image_url": "Heavy_Eyed_Hairbug_Squirrel.jpg",
@@ -9525,7 +9526,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Blackbead Flashback Pheasant Tail",
     "flyCategory": "Tails",
     "image_url": "Blackbead_Flashback_Pheasant_Tail.jpg",
@@ -9550,7 +9551,7 @@
             "Wingcase": "Pearl Mylar"
         }
     }
-}{
+},{
     "flyName": "Copperbead Pheasant Tail Copper Thorax",
     "flyCategory": "Tails",
     "image_url": "Copperbead_Pheasant_Tail_copper_thorax.jpg",
@@ -9575,7 +9576,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Copperbead Flashback Pheasant Tail",
     "flyCategory": "Tails",
     "image_url": "Copperbead_Flashback_Pheasant_Tail.jpg",
@@ -9600,7 +9601,7 @@
             "Wingcase": "Pearl Mylar"
         }
     }
-}{
+},{
     "flyName": "Goldbead Flashback Pheasant Tail",
     "flyCategory": "Tails",
     "image_url": "Goldbead_Flashback_Pheasant_Tail.jpg",
@@ -9625,7 +9626,7 @@
             "Wingcase": "Pearl Mylar"
         }
     }
-}{
+},{
     "flyName": "Blackbead Full Flashback Pheasant Tail",
     "flyCategory": "Tails",
     "image_url": "Blackbead_Full_Flashback_Pheasant_Tail.jpg",
@@ -9650,7 +9651,7 @@
             "Wingcase": "Pearl Mylar"
         }
     }
-}{
+},{
     "flyName": "Copperbead Full Flashback Pheasant Tail",
     "flyCategory": "Tails",
     "image_url": "Copperbead_Full_Flashback_Pheasant_Tail.jpg",
@@ -9675,7 +9676,7 @@
             "Wingcase": "Pearl Mylar"
         }
     }
-}{
+},{
     "flyName": "Goldbead Full Flashback Pheasant Tail",
     "flyCategory": "Tails",
     "image_url": "Goldbead_Full_Flashback_Pheasant_Tail.jpg",
@@ -9700,7 +9701,7 @@
             "Wingcase": "Pearl Mylar"
         }
     }
-}{
+},{
     "flyName": "Goldbead Pheasant Tail Copper Thorax",
     "flyCategory": "Tails",
     "image_url": "Goldbead_Pheasant_Tail_copper_thorax.jpg",
@@ -9725,7 +9726,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Pheasant Tail Copper Copperbead",
     "flyCategory": "Tails",
     "image_url": "Pheasant_Tail_Copper_Copperbead.jpg",
@@ -9750,7 +9751,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Pheasant Tail Kiwi Goldbead",
     "flyCategory": "Tails",
     "image_url": "Pheasant_Tail_Kiwi_Goldbead.jpg",
@@ -9775,7 +9776,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Pheasant Tail Kiwi Copperbead",
     "flyCategory": "Tails",
     "image_url": "Pheasant_Tail_Kiwi_Copperbead.jpg",
@@ -9800,7 +9801,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Pheasant Tail Mohawk Copperbead",
     "flyCategory": "Tails",
     "image_url": "Pheasant_Tail_Mohawk_Copperbead.jpg",
@@ -9825,7 +9826,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Pheasant Tail Mohawk Goldbead",
     "flyCategory": "Tails",
     "image_url": "Pheasant_Tail_Mohawk_Goldbead.jpg",
@@ -9850,7 +9851,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Pheasant Tail No Hackle Goldbead",
     "flyCategory": "Tails",
     "image_url": "Pheasant_Tail_NoHackle_Goldbead.jpg",
@@ -9875,7 +9876,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Pheasant Tail No Hackle Copperbead",
     "flyCategory": "Tails",
     "image_url": "Pheasant_Tail_NoHackle_Copperbead.jpg",
@@ -9900,7 +9901,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Pheasant Tail Peacock Copperbead",
     "flyCategory": "Tails",
     "image_url": "Pheasant_Tail_peacock_Copperbead.jpg",
@@ -9925,7 +9926,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Pheasant Tail Peacock Goldbead",
     "flyCategory": "Tails",
     "image_url": "Pheasant_Tail_peacock_Goldbead.jpg",
@@ -9950,7 +9951,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Pheasant Tail Swimming",
     "flyCategory": "Tails",
     "image_url": "Pheasant_Tail_Swimming.jpg",
@@ -9975,7 +9976,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Franks Flashback Tungsten Blackbead",
     "flyCategory": "Nymphs",
     "image_url": "Franks_Flashback_tungsten_blackbead.jpg",
@@ -10000,7 +10001,7 @@
             "Wingcase": "Silver Metallic Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Blue Red Lime Rib",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Blue&Red_lime_rib.jpg",
@@ -10025,7 +10026,7 @@
             "Wingcase": "Silver Metallic Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Blue Red Peacock",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Blue&Red_peacock.jpg",
@@ -10050,7 +10051,7 @@
             "Wingcase": "Silver Metallic Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Blue Red Red Rib",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Blue&Red_red_rib.jpg",
@@ -10075,7 +10076,7 @@
             "Wingcase": "Silver Metallic Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Orange Lumo Lime Rib",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Orange&Lumo_lime_rib.jpg",
@@ -10100,7 +10101,7 @@
             "Wingcase": "Silver Metallic Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Orange Lumo Peacock",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Orange&Lumo_peacock.jpg",
@@ -10125,7 +10126,7 @@
             "Wingcase": "Silver Metallic Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Orange Lumo Red Rib",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Orange&Lumo_red_rib.jpg",
@@ -10150,7 +10151,7 @@
             "Wingcase": "Silver Metallic Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Blackbead Big O",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Blackbead_BigO.jpg",
@@ -10175,7 +10176,7 @@
             "Wingcase": "Silver Metallic Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Blackbead Black Pearl",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Blackbead_Black_Pearl.jpg",
@@ -10200,7 +10201,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Blackbead Dans Nymph",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Blackbead_Dans_Nymph.jpg",
@@ -10225,7 +10226,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Blackbead Prince",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Blackbead_Prince.jpg",
@@ -10250,7 +10251,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Blackbead Brown Gold Flashback",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Blackbead_Brown_Gold_Flashback.jpg",
@@ -10275,7 +10276,7 @@
             "Wingcase": "Pheasant Segment"
         }
     }
-}{
+},{
     "flyName": "Tungsten Blackbead Shaggy Green",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Blackbead_Shaggy_green.jpg",
@@ -10300,7 +10301,7 @@
             "Wingcase": "Pheasant Segment"
         }
     }
-}{
+},{
     "flyName": "Tungsten Copperbead Copperjohn",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Copperbead_Copperjohn.jpg",
@@ -10325,7 +10326,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Copperbead Prince",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Copperbead_Prince.jpg",
@@ -10350,7 +10351,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Copperbead Quasimoto",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Copperbead_Quasimoto.jpg",
@@ -10375,7 +10376,7 @@
             "Wingcase": "Pearl Mylar"
         }
     }
-}{
+},{
     "flyName": "Tungsten Copperbead Quasimoto Doubleback Flash",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Copperbead_Quasimoto_Doubleback_Flash.jpg",
@@ -10400,7 +10401,7 @@
             "Wingcase": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Brown Gold Flashback",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Goldbead_Brown_Gold_Flashback.jpg",
@@ -10425,7 +10426,7 @@
             "Wingcase": "Pheasant Segment"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Copperjohn",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Goldbead_Copperjohn.jpg",
@@ -10450,7 +10451,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Copperflash",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Goldbead_Copperflash.jpg",
@@ -10475,7 +10476,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Blackpearl",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Goldbead_Blackpearl.jpg",
@@ -10500,7 +10501,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Fuzzy Prince",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Goldbead_Fuzzy_Prince.jpg",
@@ -10525,7 +10526,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Prince",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Goldbead_Prince.jpg",
@@ -10550,7 +10551,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Olive Claret",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Goldbead_Olive&Claret.jpg",
@@ -10575,7 +10576,7 @@
             "Wingcase": "Pheasant Tail Feather"
         }
     }
-}{
+},{
     "flyName": "Tungsten Nickelbead Big O",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Nickelbead_BigO.jpg",
@@ -10600,7 +10601,7 @@
             "Wingcase": "Pheasant Tail Feather"
         }
     }
-}{
+},{
     "flyName": "Tungsten Nickelbead Copperjohn",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Nickelbead_Copperjohn.jpg",
@@ -10625,7 +10626,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Metallic Bluebead Prince",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Metallic_Bluebead_Prince.jpg",
@@ -10650,7 +10651,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Metallic Redbead Red Copperjohn",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Metallic_Redbead_Red_Copperjohn.jpg",
@@ -10675,7 +10676,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Rainbowbead Prince",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Rainbowbead_Prince.jpg",
@@ -10700,7 +10701,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Metallic Redbead Prince",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Metallic_Redbead_Prince.jpg",
@@ -10725,7 +10726,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Nickelbead Prince",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Nickelbead_Prince.jpg",
@@ -10750,7 +10751,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Metallic Bluebead Quasimoto",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Metallic_Bluebead_Quasimoto.jpg",
@@ -10775,7 +10776,7 @@
             "Wingcase": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Tungsten Metallic Pinkbead Prince",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Metallic_Pinkbead_Prince.jpg",
@@ -10800,7 +10801,7 @@
             "Wingcase": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Tungsten Metallic Pinkbead Quasimoto",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Metallic_Pinkbead_Quasimoto.jpg",
@@ -10825,7 +10826,7 @@
             "Wingcase": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Tungsten Rainbowbead Quasimoto",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Rainbowbead_Quasimoto.jpg",
@@ -10850,7 +10851,7 @@
             "Wingcase": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Tungsten Nickelbead Quasimoto",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Nickelbead_Quasimoto.jpg",
@@ -10875,7 +10876,7 @@
             "Wingcase": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Tungsten Nickelbead Quasimoto Doubleback Flash",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Nickelbead_Quasimoto_Doubleback_Flash.jpg",
@@ -10900,7 +10901,7 @@
             "Wingcase": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Tungsten Nickelbead Nymph Deluxe",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Nickelbead_Nymph_Deluxe.jpg",
@@ -10925,7 +10926,7 @@
             "Wingcase": "Goat Skin"
         }
     }
-}{
+},{
     "flyName": "Tungsten Silverbead Prince",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Silverbead_Prince.jpg",
@@ -10950,7 +10951,7 @@
             "Wingcase": "Goat Skin"
         }
     }
-}{
+},{
     "flyName": "Tungsten Silverbead Quasimoto",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Silverbead_Quasimoto.jpg",
@@ -10975,7 +10976,7 @@
             "Wingcase": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Tungsten Blackbead Cadillac Pheasant Tail",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Blackbead_Cadillac_Pheasant_Tail.jpg",
@@ -11000,7 +11001,7 @@
             "Wingcase": "Moose Hair"
         }
     }
-}{
+},{
     "flyName": "Tungsten Blackbead Super Pupa",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Blackbead_Super_Pupa.jpg",
@@ -11025,7 +11026,7 @@
             "Wingcase": "Moose Hair"
         }
     }
-}{
+},{
     "flyName": "Tungsten Copperbead Cadillac Pheasant Tail",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Copperbead_Cadillac_Pheasant_Tail.jpg",
@@ -11050,7 +11051,7 @@
             "Wingcase": "Moose Hair"
         }
     }
-}{
+},{
     "flyName": "Tungsten Copperbead Flashback Pheasant Tail Grub",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Copperbead_Flashback_Pheasant_Tail_Grub.jpg",
@@ -11075,7 +11076,7 @@
             "Wingcase": "Pearl Mylar"
         }
     }
-}{
+},{
     "flyName": "Tungsten Copperbead Stick Caddis",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Copperbead_Stick_Caddis.jpg",
@@ -11100,7 +11101,7 @@
             "Wingcase": "Brown Floss"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Bubbleback Emerger",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Goldbead_Bubbleback_Emerger.jpg",
@@ -11125,7 +11126,7 @@
             "Wingcase": "Pearl Flashabou"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Cadillac Pheasant Tail",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Goldbead_Cadillac_Pheasant_Tail.jpg",
@@ -11150,7 +11151,7 @@
             "Wingcase": "Moose Hair"
         }
     }
-}{
+},{
     "flyName": "Tungsten Nickelbead Blue Poison",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Nickelbead_Blue_Poison.jpg",
@@ -11175,7 +11176,7 @@
             "Wingcase": "Moose Hair"
         }
     }
-}{
+},{
     "flyName": "Tungsten Nickelbead Cadillac Pheasant Tail",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Nickelbead_Cadillac_Pheasant_Tail.jpg",
@@ -11200,7 +11201,7 @@
             "Wingcase": "Moose Hair"
         }
     }
-}{
+},{
     "flyName": "Tungsten Nickelbead Flashback Caddis Olive",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Nickelbead_Flashback_Caddis_Olive.jpg",
@@ -11225,7 +11226,7 @@
             "Wingcase": "Hungarian Partridge Feathers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Nickelbead Flashback Pheasant Tail Grub",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Nickelbead_Flashback_Pheasant_Tail_Grub.jpg",
@@ -11250,7 +11251,7 @@
             "Wingcase": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Tungsten Blackbead Z Wing Green",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Blackbead_Z_Wing_green.jpg",
@@ -11275,7 +11276,7 @@
             "Wingcase": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Tungsten Copperbead Z Wing Green",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Copperbead_Z_Wing_green.jpg",
@@ -11300,7 +11301,7 @@
             "Wingcase": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Tungsten Blackbead Hare Angel",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Blackbead_Hare_Angel.jpg",
@@ -11325,7 +11326,7 @@
             "Wingcase": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Tungsten Blackbead Hare Copper",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Blackbead_Hare&Copper.jpg",
@@ -11350,7 +11351,7 @@
             "Wingcase": "Peacock Herl"
         }
     }
-}{
+},{
     "flyName": "Tungsten Blackbead Hares Ear Olive",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Blackbead_Hares_Ear_olive.jpg",
@@ -11375,7 +11376,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Blackbead Hare Squirrel",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Blackbead_Hare&Squirrel.jpg",
@@ -11400,7 +11401,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Copperbead Hare Copper",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Copperbead_Hare&Copper.jpg",
@@ -11425,7 +11426,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Copperbead Hare Copper X",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Copperbead_Hare&CopperX.jpg",
@@ -11450,7 +11451,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Copperbead Hare Copper Black",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Copperbead_Hare&Copper_black.jpg",
@@ -11475,7 +11476,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Hare Copper X",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Goldbead_Hare&CopperX.jpg",
@@ -11500,7 +11501,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Lumobead Hare Copper",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Lumobead_Hare&Copper.jpg",
@@ -11525,7 +11526,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Orangebead Hare Copper",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Orangebead_Hare&Copper.jpg",
@@ -11550,7 +11551,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Pinkbead Hare Copper",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Pinkbead_Hare&Copper.jpg",
@@ -11575,7 +11576,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Hare Copper",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Goldbead_Hare&Copper.jpg",
@@ -11600,7 +11601,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Blackbead Hare Copper Black",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Blackbead_Hare&Copper_black.jpg",
@@ -11625,7 +11626,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "C Tungsten Fluoro Orangebead Hare Copper Black",
     "flyCategory": "Nymphs",
     "image_url": "cTungsten_FluoroOrangebead_Hare&Copper_black.jpg",
@@ -11650,7 +11651,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Fluoro Pinkbead Hare Copper Black",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_FluoroPinkbead_Hare&Copper_black.jpg",
@@ -11675,7 +11676,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Hare Copper Black",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Goldbead_Hare&Copper_black.jpg",
@@ -11700,7 +11701,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Lumobead Hare Copper Black",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Lumobead_Hare&Copper_black.jpg",
@@ -11725,7 +11726,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Goldribbed Hares Ear",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Goldbead_Goldribbed_Hares_Ear.jpg",
@@ -11750,7 +11751,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Goldribbed Hares Ear Flashback",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Goldbead_Goldribbed_Hares_Ear_Flashback.jpg",
@@ -11775,7 +11776,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Nickelbead Hare Copper",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Nickelbead_Hare&Copper.jpg",
@@ -11800,7 +11801,7 @@
             "Wingcase": "Pearl Mylar Tinsel"
         }
     }
-}{
+},{
     "flyName": "Tungsten Nickelbead Hares Ear Olive",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Nickelbead_Hares_Ear_olive.jpg",
@@ -11825,7 +11826,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Nickelbead Hare Copper Black",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Nickelbead_Hare&Copper_black.jpg",
@@ -11850,7 +11851,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Silverbead Hare Copper Black",
     "flyCategory": "Nymphs",
     "image_url": "Tungsten_Silverbead_Hare&Copper_black.jpg",
@@ -11875,7 +11876,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Blackbead Pheasant Tail Hare Thorax",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Blackbead_Pheasant_Tail_Hare_Thorax.jpg",
@@ -11900,7 +11901,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Blackbead Flashback Pheasant Tail",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Blackbead_Flashback_Pheasant_Tail.jpg",
@@ -11925,7 +11926,7 @@
             "Wingcase": "Pearl Mylar"
         }
     }
-}{
+},{
     "flyName": "Tungsten Copperbead Pheasant Tail",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Copperbead_Pheasant_Tail.jpg",
@@ -11950,7 +11951,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Copperbead Pheasant Tail Kiwi",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Copperbead_Pheasant_Tail_Kiwi.jpg",
@@ -11975,7 +11976,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Copperbead Flashback Pheasant Tail",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Copperbead_Flashback_Pheasant_Tail.jpg",
@@ -12000,7 +12001,7 @@
             "Wingcase": "Pearl Mylar"
         }
     }
-}{
+},{
     "flyName": "Tungsten Copperbead Flashback Pheasant Tail Grub",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Copperbead_Flashback_Pheasant_Tail_Grub.jpg",
@@ -12025,7 +12026,7 @@
             "Wingcase": "Pearl Mylar"
         }
     }
-}{
+},{
     "flyName": "Tungsten Copperbead Pheasant Tail Hare Thorax",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Copperbead_Pheasant_Tail_Hare_Thorax.jpg",
@@ -12050,7 +12051,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Copperbead Quasimoto",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Copperbead_Quasimoto.jpg",
@@ -12075,7 +12076,7 @@
             "Wingcase": "Pearl Mylar"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Flashback Pheasant Tail",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Goldbead_Flashback_Pheasant_Tail.jpg",
@@ -12100,7 +12101,7 @@
             "Wingcase": "Pearl Mylar"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Pheasant Tail",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Goldbead_Pheasant_Tail.jpg",
@@ -12125,7 +12126,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Pheasant Tail Copper Nohackle",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Goldbead_Pheasant_Tail_copper_nohackle.jpg",
@@ -12150,7 +12151,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Blackbead Pheasant Tail Copper Thorax",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Blackbead_Pheasant_Tail_copper_thorax.jpg",
@@ -12175,7 +12176,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Copperbead Pheasant Tail Copper Thorax",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Copperbead_Pheasant_Tail_copper_thorax.jpg",
@@ -12200,7 +12201,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Pheasant Tail Copper",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Goldbead_Pheasant_Tail_copper.jpg",
@@ -12225,7 +12226,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Pheasant Tail Copper Thorax",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Goldbead_Pheasant_Tail_copper_thorax.jpg",
@@ -12250,7 +12251,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Nickelbead Pheasant Tail Copper Thorax",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Nickelbead_Pheasant_Tail_copper_thorax.jpg",
@@ -12275,7 +12276,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Orangebead Pheasant Tail Copper Thorax",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Orangebead_Pheasant_Tail_copper_thorax.jpg",
@@ -12300,7 +12301,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Copperbead Pheasant Tail Blue Flashback",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Copperbead_Pheasant_Tail_Blue_Flashback.jpg",
@@ -12325,7 +12326,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Copperbead Pheasant Tail Pearl Flashback",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Copperbead_Pheasant_Tail_Pearl_Flashback.jpg",
@@ -12350,7 +12351,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Pheasant Tail Blue Flashback",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Goldbead_Pheasant_Tail_Blue_Flashback.jpg",
@@ -12375,7 +12376,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Pheasant Tail Pearl Flashback",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Goldbead_Pheasant_Tail_Pearl_Flashback.jpg",
@@ -12400,7 +12401,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Pheasant Tail Kiwi",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Goldbead_Pheasant_Tail_Kiwi.jpg",
@@ -12425,7 +12426,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Pheasant Tail No Hackle",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Goldbead_Pheasant_Tail_No_Hackle.jpg",
@@ -12450,7 +12451,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Goldbead Pheasant Tail Hare Thorax",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Goldbead_Pheasant_Tail_Hare_Thorax.jpg",
@@ -12475,7 +12476,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Lumobead Pheasant Tail Hare Thorax",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Lumobead_Pheasant_Tail_Hare_Thorax.jpg",
@@ -12500,7 +12501,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Nickelbead Flashback Pheasant Tail",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Nickelbead_Flashback_Pheasant_Tail.jpg",
@@ -12525,7 +12526,7 @@
             "Wingcase": "Pearl Mylar"
         }
     }
-}{
+},{
     "flyName": "Tungsten Nickelbead Pheasant Tail Hare Thorax",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Nickelbead_Pheasant_Tail_Hare_Thorax.jpg",
@@ -12550,7 +12551,7 @@
             "Wingcase": "Pheasant Tail Fibers"
         }
     }
-}{
+},{
     "flyName": "Tungsten Orangebead Pheasant Tail Hare Thorax",
     "flyCategory": "Tails",
     "image_url": "Tungsten_Orangebead_Pheasant_Tail_Hare_Thorax.jpg",
@@ -12576,3 +12577,4 @@
         }
     }
 }
+]
