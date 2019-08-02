@@ -1,0 +1,20 @@
+{
+  "name": "fly_tying_companion_server",
+  "version": "1.0.0",
+  "description": "Simple server for the Fly Tying Companion app.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "devStart": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.7"
+  },
+  "devDependencies": {
+    "dotenv": "^8.0.0",
+    "nodemon": "^1.19.1"
+  }
+}
