@@ -3,6 +3,7 @@ require('dotenv').config()  //pulls all of our environment variables from env fi
 const express = require('express')
 const app = express()
 const mongoose = require('mongoose')
+const cors = require('cors');
 
 //database connection through mongoose - DATABASE URL is set within env file to protect url
 //and allows us to pull database url from wherever it is deployed later
@@ -14,6 +15,14 @@ db.on('error', (error) => console.error(error))      //tells us if theres an err
 db.once('open', (error) => console.log('Connected to Database'))    // tells us that we've connected to db on startup
 
 app.use(express.json()) //middleware to allow our app to read json
+app.use(cors());
+
+app.use(function (req, res, next) {
+    res.header("Access-Control-Allow-Origin", "*");
+    res.header('Access-Control-Allow-Methods', 'GET, DELETE, POST, PUT');
+    res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+    next();
+});
 
 //where are routes will be located - inside routes folder in flies.js file
 const fliesRouter = require('./routes/Flies')

@@ -7,4 +7,4 @@ GET http://localhost:8080/Flies/5d41a813c52e06c168564ca4
 
 ###
 
-GET http://localhost:8080/Flies/:flyCategory
+GET http://localhost:8080/Flies/Streamers
