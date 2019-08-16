@@ -33,6 +33,9 @@ const fliesRouter = require('./routes/Flies')
 app.use('/Flies', fliesRouter)  //tells app to use the fliesRouter whenever we query
 //'localhost:8080/flies/blahblah'
 
+
+
+const host = '0.0.0.0';
 app.set( 'port', ( process.env.PORT || 8080 ));
 
 // Start node server
