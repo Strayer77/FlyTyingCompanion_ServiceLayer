@@ -1,7 +1,7 @@
-require('dotenv').config()  //pulls all of our environment variables from env file
+//require('dotenv').config()  //pulls all of our environment variables from env file
 
-var express  = require('express');
-var app      = express();                                   
+var express = require('express');
+var app = express();                                   
 var cors = require('cors');
 var mongoose = require('mongoose')
 
@@ -12,7 +12,7 @@ var mongoose = require('mongoose')
 //and allows us to pull database url from wherever it is deployed later
 mongoose.connect(process.env.DATABASE_URI, { useNewUrlParser: true })
 //variable for our db connection
-const db = mongoose.connection
+var db = mongoose.connection
 
 db.on('error', (error) => console.error(error))      //tells us if theres an error connecting to db
 db.once('open', (error) => console.log('Connected to Database'))    // tells us that we've connected to db on startup
