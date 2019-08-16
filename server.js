@@ -1,9 +1,9 @@
-//require('dotenv').config()  //pulls all of our environment variables from env file
+require('dotenv').config()  //pulls all of our environment variables from env file
 
-const express  = require('express');
-const app      = express();                                   
-const cors = require('cors');
-const mongoose = require('mongoose')
+var express  = require('express');
+var app      = express();                                   
+var cors = require('cors');
+var mongoose = require('mongoose')
 
 
 
@@ -29,17 +29,16 @@ app.use(function (req, res, next) {
 });
 
 //where are routes will be located - inside routes folder in flies.js file
-const fliesRouter = require('./routes/Flies')
+var fliesRouter = require('./routes/Flies')
 app.use('/Flies', fliesRouter)  //tells app to use the fliesRouter whenever we query
 //'localhost:8080/flies/blahblah'
 
 
-
-const host = '0.0.0.0';
-app.set( 'port', ( process.env.PORT || 8080 ));
+var port = process.env.PORT || 8080;
+//app.set( 'port', ( process.env.PORT || 8080 ));
 
 // Start node server
-app.listen( app.get( 'port' ), function() {
+app.listen( port, function() {
   console.log( 'Node server is running on port ' + app.get( 'port' ));
   });
 //app listens on port 8080 and a Server Started message is delivered on startup

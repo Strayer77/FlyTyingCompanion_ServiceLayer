@@ -3,15 +3,15 @@
   "version": "1.0.0",
   "description": "Simple server for the Fly Tying Companion app.",
   "main": "server.js",
-  "engines": {
-    "node": "10.15.3",
-    "npm": "6.4.1"
-  },
   "scripts": {
     "start": "node server.js",
     "devStart": "nodemon server.js"
   },
-  "author": "",
+  "author": "Matt Strayer",
+  "engines": {
+    "node": "10.15.3",
+    "npm": "6.4.1"
+  },
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
