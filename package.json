@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Simple server for the Fly Tying Companion app.",
   "main": "server.js",
+  "engines": {
+    "node": "10.15.3",
+    "npm": "6.4.1"
+  },
   "scripts": {
     "start": "node server.js",
     "devStart": "nodemon server.js"
@@ -12,10 +16,10 @@
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "mongoose": "^5.6.7"
+    "mongoose": "^5.6.7",
+    "dotenv": "^8.0.0"
   },
   "devDependencies": {
-    "dotenv": "^8.0.0",
     "nodemon": "^1.19.1"
   }
 }
