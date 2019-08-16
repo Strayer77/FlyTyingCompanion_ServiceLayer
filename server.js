@@ -34,7 +34,7 @@ app.use(function (req, res, next) {
 });
 
 //where are routes will be located - inside routes folder in flies.js file
-var fliesRouter = require('./routes/Flies');
+var fliesRouter = require('./routes/flies');
 app.use('/Flies', fliesRouter);  //tells app to use the fliesRouter whenever we query
 //'localhost:8080/flies/blahblah'
 
