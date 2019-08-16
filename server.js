@@ -5,6 +5,8 @@ const app = express()
 const mongoose = require('mongoose')
 const cors = require('cors');
 
+
+
 //database connection through mongoose - DATABASE URL is set within env file to protect url
 //and allows us to pull database url from wherever it is deployed later
 mongoose.connect(process.env.DATABASE_URL, { useNewUrlParser: true })
@@ -31,4 +33,4 @@ app.use('/Flies', fliesRouter)  //tells app to use the fliesRouter whenever we q
 
 //app listens on port 8080 and a Server Started message is delivered on startup
 //process.env.port will tell us what port it will be assigned to on deployment
-app.listen(process.env.port || 8080, () => console.log("Server Started")) 
+app.listen(process.env.PORT || 8080, () => console.log("Server Started")) 

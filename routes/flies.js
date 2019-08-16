@@ -3,15 +3,6 @@ const router = express.Router()
 const Fly = require('../models/fly')
 
 
-function findCategory(category) {
-    Fly.find({flyCategory: category }).then(doc => {
-        console.log(doc)
-      })
-      .catch(err => {
-        console.error(err)
-      })
-}
-
 //Getting all
 router.get('/', async (req, res) => {
     try {
@@ -28,10 +19,6 @@ router.get('/:id', getFly, (req, res) => {
     res.json(res.fly)
 })
 
-//getting fly Category
-router.get('/', findCategory, (req, res) => {
-    res.json()
-})
 
 
 async function getFly(req, res, next) {
