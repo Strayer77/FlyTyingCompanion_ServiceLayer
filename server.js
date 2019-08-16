@@ -12,7 +12,7 @@ var mongoose = require('mongoose')
 
 //database connection through mongoose - DATABASE URL is set within env file to protect url
 //and allows us to pull database url from wherever it is deployed later
-mongoose.connect(process.env.DATABASE_URL, { useNewUrlParser: true })
+mongoose.connect(process.env.DATABASE_URI, { useNewUrlParser: true })
 //variable for our db connection
 const db = mongoose.connection
 
