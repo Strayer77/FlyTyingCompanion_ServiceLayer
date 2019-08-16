@@ -4,8 +4,7 @@
   "description": "Simple server for the Fly Tying Companion app.",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js",
-    "build": "webpack"
+    "start": "node server.js"
   },
   "author": "Matt Strayer",
   "engines": {
