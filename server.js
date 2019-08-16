@@ -3,22 +3,27 @@
 var express = require('express');
 var app = express();                                   
 var cors = require('cors');
-var mongoose = require('mongoose')
+var mongoose = require('mongoose');
+var bodyParser = require('body-parser');
+var morgan = require('morgan');
 
 
 
 
 //database connection through mongoose - DATABASE URL is set within env file to protect url
 //and allows us to pull database url from wherever it is deployed later
-mongoose.connect(process.env.DATABASE_URI, { useNewUrlParser: true })
+mongoose.connect(process.env.DATABASE_URI, { useNewUrlParser: true });
 //variable for our db connection
-var db = mongoose.connection
+var db = mongoose.connection;
 
-db.on('error', (error) => console.error(error))      //tells us if theres an error connecting to db
-db.once('open', (error) => console.log('Connected to Database'))    // tells us that we've connected to db on startup
+db.on('error', (error) => console.error(error));     //tells us if theres an error connecting to db
+db.once('open', (error) => console.log('Connected to Database'));    // tells us that we've connected to db on startup
 
 
-app.use(express.json()) //middleware to allow our app to read json
+//app.use(express.json()) //middleware to allow our app to read json
+app.use(morgan('dev')); 
+app.use(bodyParser.urlencoded({'extended':'true'}));            
+app.use(bodyParser.json()); 
 app.use(cors());
 
 app.use(function (req, res, next) {
@@ -29,8 +34,8 @@ app.use(function (req, res, next) {
 });
 
 //where are routes will be located - inside routes folder in flies.js file
-var fliesRouter = require('./routes/Flies')
-app.use('/Flies', fliesRouter)  //tells app to use the fliesRouter whenever we query
+var fliesRouter = require('./routes/Flies');
+app.use('/Flies', fliesRouter);  //tells app to use the fliesRouter whenever we query
 //'localhost:8080/flies/blahblah'
 
 
