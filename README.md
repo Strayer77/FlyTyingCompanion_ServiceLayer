@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Fly Tying Companion-Service Layer
 ## This repository contains all the design documents as well as code files for the back-end of the Fly Tying Companion application.
 
@@ -13,6 +12,4 @@ The back-end for this application consists of a MongoDB database that I created 
 Along with the database, I created a REST API with Node.js, Express, and Mongoose to serve the data to the front-end of the application which is located here: https://github.com/Strayer77/FlyTyingCompanion_UI
 
 The Documentation folder holds the designs for the database itself, the service layer and it's endpoints, as well as models for the fly documents stored in the database. 
-=======
 
->>>>>>> ca9ad1e4c7abd6aac0ebdc3e9fa6a822f081a541
