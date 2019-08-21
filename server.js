@@ -9,7 +9,7 @@ var morgan = require('morgan');
 
 
 
-
+//---------------------------------------------------------------------------------------------
 //database connection through mongoose - DATABASE URL is set within env file to protect url
 //and allows us to pull database url from wherever it is deployed later
 mongoose.connect(process.env.DATABASE_URI, { useNewUrlParser: true });
@@ -20,6 +20,8 @@ db.on('error', (error) => console.error(error));     //tells us if theres an err
 db.once('open', (error) => console.log('Connected to Database'));    // tells us that we've connected to db on startup
 
 
+
+//---------------------------------------------------------------------------------------------
 //app.use(express.json()) //middleware to allow our app to read json
 app.use(morgan('dev')); 
 app.use(bodyParser.urlencoded({'extended':'true'}));            
@@ -33,15 +35,24 @@ app.use(function (req, res, next) {
     next();
 });
 
+
+
+//---------------------------------------------------------------------------------------------
 //where are routes will be located - inside routes folder in flies.js file
 var fliesRouter = require('./routes/flies');
 app.use('/Flies', fliesRouter);  //tells app to use the fliesRouter whenever we query
 //'localhost:8080/flies/blahblah'
 
 
+
+//---------------------------------------------------------------------------------------------
+//port we will be using, environment port to be decided once deployed and localhost port 8080
 var port = process.env.PORT || 8080;
 //app.set( 'port', ( process.env.PORT || 8080 ));
 
+
+
+//---------------------------------------------------------------------------------------------
 // Start node server
 app.listen( port, function() {
   console.log( 'Node server is running on port ' + app.get( 'port' ));

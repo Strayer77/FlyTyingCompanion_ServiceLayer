@@ -1,6 +1,8 @@
 const mongoose = require('mongoose')
 
 //create our fly schema
+//this schema matches the model used in our database
+//this will allow us to grab information from the DB's Flies collection
 const flySchema = new mongoose.Schema({
     flyName: String,
     flyCategory: String,
@@ -25,6 +27,6 @@ const flySchema = new mongoose.Schema({
         Wingcase: String
     }
 },
-{ collection: 'Flies'})
+{ collection: 'Flies'}) //specify which collection
 
-module.exports = mongoose.model('Fly', flySchema)
+module.exports = mongoose.model('Fly', flySchema)   //exporting to be used in Routes and Server files
